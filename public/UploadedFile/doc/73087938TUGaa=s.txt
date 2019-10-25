@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Penjualan Onlen</title>
+</head>
+<body>
+	<h1>Onlen shop</h1>
+	<form action="#" method="get">
+		<center>
+		<div>
+			<label>Nama :</label><input type="text" name="nama" value="<?=isset($_POST['nama']) ? $_POST['nama'] : ''?>"/>
+		</div>
+		<div>
+			<label>Jumlah Belanjaan  :</label><input type="text" name="Jumlah" value="<?=isset($_POST['Jumlah']) ? $_POST['Jumlah'] : ''?>"/>
+		</div>
+		<input type="submit" name="submit" value="Simpan"/>
+	</form>
+	<?php
+	echo $_GET['nama'];
+	echo "<br />";
+	if ($_GET['Jumlah'] >= '2000000') {
+		echo "Anda mendapatkan Hadiah Kipas Angin";
+	}
+	elseif ($_GET['Jumlah'] >= '1000000') {
+		echo "Anda mendapatkan Hadiah Boneka";
+	}
+	elseif ($_GET['Jumlah'] >= '500000') {
+		echo "Anda mendapatkan Hadiah Payung Cantik";
+	}
+	else{
+		echo "Anda tidak mendapatkan Hadiah";
+	}
+	?>
+	</center>
+</body>
+</html>

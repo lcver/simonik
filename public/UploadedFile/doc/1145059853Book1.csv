@@ -1,0 +1,2657 @@
+id;id_mapel;nama_mapel
+;100011000;Pendidikan Agama Islam
+;100011070;Pendidikan Agama Islam dan Budi Pekerti
+;100012000;Pendidikan Agama Kristen 
+;100012050;Pendidikan Agama Kristen dan Budi Pekerti
+;100013000;Pendidikan Agama Katholik
+;100013010;Pendidikan Agama Katholik dan Budi Pekerti
+;100014000;Pendidikan Agama Buddha
+;100014140;Pendidikan Agama Buddha dan Budi Pekerti
+;100015000;Pendidikan Agama Hindu
+;100015010;Pendidikan Agama Hindu dan Budi Pekerti
+;100016000;Pendidikan Agama Konghuchu 
+;100016010;Pendidikan Agama Konghuchu dan Budi Pekerti
+;109011000;Pendidikan Kepercayaan terhadap Tuhan YME
+;109011010;Pendidikan Kepercayaan terhadap Tuhan YME dan Budi Pekerti
+;200010000;Pendidikan Pancasila dan Kewarganegaraan 
+;200010200;Pendidikan Kewarganegaraan 
+;300110000;Bahasa Indonesia
+;300210000;Bahasa Inggris
+;300310100;Bahasa Arab
+;300310200;Bahasa Belanda
+;300310300;Bahasa Cina
+;300310400;Bahasa Jepang
+;300310500;Bahasa Jerman
+;300310600;Bahasa Korea
+;300310700;Bahasa Mandarin
+;300310800;Bahasa Perancis
+;300311900;Muatan Lokal Bahasa Daerah
+;300312900;Muatan Lokal Potensi Daerah
+;401000000;Matematika (Umum)
+;401100000;Ilmu Pengetahuan Alam (IPA)
+;401110000;Ilmu Pengetahuan Alam (Terapan)
+;401110200;Biologi
+;401110300;Biologi Perikanan
+;401121000;Fisika
+;401130000;Kimia
+;401130100;Kimia
+;401130200;Teknik Dasar Pekerjaan Laboratorium Kimia
+;401130300;Analisis Kimia Dasar
+;401130400;Kimia Organik
+;401130500;Kimia Analitik Terapan
+;401130600;Analisis Kimia Terpadu
+;401130610;Analisis Bahan Anorganik
+;401130620;Analisis Bahan Organik
+;401130700;Azas Teknik Kimia
+;401130800;Operasi Teknik Kimia
+;401130900;Proses Industri Kimia
+;401130910;Evaluasi Kimia dan Fisika Tekstil
+;401130920;Pencelupan & Analisa Zat warna
+;401131000;Alat Mesin Industri Kimia
+;401131100;Kimia Klinik 
+;401131110;Alat Industri Kimia
+;401131300;Analisis Kimia Terapan
+;401131400;Analisis Kuantitatif Konvensional
+;401131500;Analisis Mikrobiologi
+;401131600;Analisis Proksimat
+;401131700;Penyempurnaan Khusus Kimia & Fisika
+;401131800;Proses Persiapan Kimia Tekstil
+;401131900;Teknik Pencapan & Colour Matching
+;401132100;Analisis Kimia Instrumen
+;401140100;Mikro Biologi
+;401140200;Bakteriologi
+;401140300;Parasitologi
+;401140400;Hematologi
+;401140600;Patofisiologi
+;401140700;Immunologi
+;401140800;Dasar-dasar Mikrobiologi
+;401140900;Analisis Konstanta fisik
+;401141100;Farmakologi
+;401141200;Farmakognosi
+;401141210;Farmakognosi Dasar
+;401141300;Administrasi Farmasi
+;401141400;Kimia Farmasi
+;401141500;Pelayanan Farmasi
+;401141510;Ilmu Farmasi
+;401141600;Teknik Pembuatan Sediaan Obat
+;401141700;Teknologi Pengemasan Produk
+;401141800;Manajemen Produksi Obat
+;401200000;Ilmu Pengetahuan Sosial (IPS)
+;401231000;Sejarah Indonesia
+;401240000;Sosiologi
+;401251010;Dasar-dasar Perbankan
+;401251020;Akuntansi Perusahaan Dagang
+;401251021;Akuntansi Perusahaan Jasa
+;401251030;Akuntansi Keuangan
+;401251040;Komputer Akuntansi 
+;401251050;Akuntansi Perusahaan Manufaktur
+;401251060;Administrasi Pajak
+;401251070;Pengelolaan Kas
+;401251080;Layanan Lembaga Keuangan Non Bank
+;401251090;Layanan Perbankan
+;401251101;Akuntansi Perbankan
+;401251102;Komputer Akuntansi Perbankan
+;401251103;Produk Syariah
+;401251104;Ekonomi Islam
+;401251105;Akuntansi Perbankan Syariah
+;401251106;Komputer Akuntansi Perbankan Syariah
+;401251109;Analisa dan Riset Pasar
+;401251110;Perencanaan Pemasaran
+;401251120;Layanan Lembaga Keuangan Syariah
+;401251130;Layanan Lembaga Perbankan dan Keuangan Mikro
+;401251150;Praktikum Akuntansi Perusahaan Jasa, Dagang dan Manufaktur
+;401251160;Pengelolaan Kas
+;401251170;Akuntansi Dasar
+;401251180;Praktikum Akuntansi Lembaga/Instansi Pemerintah
+;401251190;Akuntansi Perbankan dan Keuangan Mikro
+;401251200;Pengelolaan Usaha Pemasaran
+;401251210;Strategi Pemasaran
+;401251220;Paket Program Pengolah Angka/Spreadsheet
+;401251221;Aplikasi Pengolah Angka/Spreadsheet
+;401251230;Pemasaran On_Line
+;401251240;Pengelolaan Bisnis Ritel
+;401251300;Marketing
+;401251310;Prinsip-Prinsip Bisnis
+;401251320;Pengetahuan Produk
+;401251330;Penataan Barang Dagangan
+;401251340;Komunikasi Bisnis
+;401251350;Administrasi Barang
+;401251360;Administrasi Transaksi
+;401251370;Pelayanan Penjualan
+;401251380;Penataan Produk
+;401251400;Perencanaan Bisnis
+;401251500;Bisnis Online
+;401251600;Pengemasan dan Pengiriman Produk
+;401251610;Customer Service
+;401251620;Pengelolaan Bisnis Ritel
+;401251630;Visual Merchandising
+;401260000;Antropologi
+;500010000;Pendidikan Jasmani, Olahraga, dan Kesehatan
+;500050000;Bimbingan dan Konseling/Konselor (BP/BK)
+;600060000;Prakarya dan Kewirausahaan
+;600070100;Produk Kreatif dan Kewirausahaan
+;600090000;Pelayanan Prima
+;700115000;Desain Grafis
+;700115100;Desain Grafis Percetakan
+;700116000;Fotografi
+;800010100;Kesehatan Masyarakat
+;800010101;Dasar-dasar Komunikasi
+;800010121;Melaksanakan dasar-dasar KIE (Kom., Informasi, & Edukasi)
+;800010122;Melaksanakan pekerjaan dalam lingkup pekerjaan yang berbeda
+;800010123;Menjelaskan dasar-dasar penyakit
+;800010124;Melaksanakan uji laboratorium
+;800010125;Melaksanakan penanganan bahan & reagen laboratorium
+;800010126;Melakukan pemeriksaan urin, faeces & cairan tubuh lainnya
+;800010127;Melak. Pemerik. hematologi bakt.parasitologi & non patoogis
+;800010128;Menjelaskan transfusi darah & bank darah
+;800010129;Menganalisis data hasil pemeriksaan
+;800010130;Menerapkan kontrol kualitas prosedur laboratorium
+;800010131;Melakukan promosi kesehatan
+;800020300;Tumbuh Kembang Manusia
+;800020400;Pengantar Ilmu Penyakit dan Penunjang Medis
+;800020410;Ilmu Penyakit dan Penunjang Diagnostik
+;800020500;Ilmu Kesehatan Masyarakat
+;800020600;Komunikasi Keperawatan
+;800020700;Konsep Dasar Keperawatan
+;800030100;Dasar-dasar Kefarmasian
+;800030101;Menerapkan dasar2 kimia, kefarmasian & kesehatan masyarakat
+;800030102;Menjelaskan CPOB, CPKB, & CPOTB
+;800030103;Melaksanakan kerja sama dengan kolega & pelanggan
+;800030104;Melakukan pekerjaan di laboratorium resep
+;800030105;Menjelaskan dasar-dasar penyakit & farmakologi
+;800030106;Membt sediaan obat sesuai resep dktr di bwh pengwsn apoteker
+;800030107;Menerapkan manajemen & administrasi di bi&g farmasi
+;800030108;Menerapkan akuntansi dalam bi&g farmasi
+;800030109;Membuat obat tradisional & fitofarmaka
+;800030110;Menerapkan distribusi berbagai jenis sediaan obat
+;800030200;Pengujian dan Pengendalian Mutu Produk
+;800030201;Menjelaskan dasar-dasar pembuatan & pengemasan sediaan obat
+;800030202;Menerapkan sistem mutu dalam kontrol kualitas produk farmasi
+;800030203;Menerapkan perencanaan produksi & pengendalian inventory
+;800030204;Melakukan manajemen pergu&gan & distribusi
+;800030205;Melakukan monitoring barang kadaluwarsa & pemusnahannya
+;800030206;Melakukan penarikan kembali obat jadi
+;800030207;Menjelaskan penelitian & pengembangan produk
+;800030208;Melaksanakan sistem dokumentasi farmasi industri
+;800030300;Manajemen Bahan
+;800030400;Pengelolaan Produksi Obat
+;800030500;Teknologi Pengemasan Obat
+;800050201;Menjelaskan dasar-dasar keperawatan & pelayanan kesehatan
+;800050202;Melaksanakan pemberian obat & nutrisi kepd klien/pasien
+;800050203;Mengidentifikasi jenis pemerik. lab dsr yg diperlukan pasien
+;800050204;Mengasuh bayi, balita, anak, & lansia sesuai tngkt perkemb.
+;800050205;Melaksanakan pelayan klien/pasien berpenyakit ringan
+;800050206;Menerapkan komunikasi interpersonal, massa & terapeutik
+;800050207;Menjelaskan tahapan perkembangan srt kebutuhan dasar manusia
+;800050208;Menjelaskan kesehatan reproduksi
+;800050209;Melakukan pemeriksaan tanda-tanda vital
+;800050210;Melakukan mobilisasi pasif terhadap klien/pasien
+;800050211;Melaksanakan dokumentasi tindakan keperawatan
+;800050212;Menerapkan etika keperawatan & kaidah hukum keperawatan
+;800050300;Administrasi Keperawatan
+;800050400;Keterampilan Kebutuhan Dasar Manusia
+;800050410;Kesehatan Reproduksi
+;800050420;Kebutuhan Dasar Manusia
+;800050430;Keterampilan Dasar Tindakan Keperawatan
+;800060301;Menjelaskan dasar2 keperawatan & pelayanan kesehatan gigi
+;800060302;Melak.surveilan epidemiologi penyakit gigi & mlt di masy.
+;800060303;Memelihara berbagai bahan & obat-obatan di klinik
+;800060304;Berkomunikasi dgn pasien, masy & tenaga medik/paramedik lain
+;800060305;Melakukan diagnosis berbagai penyakit gigi & mulut
+;800060306;Menerapkan praktik keperawatan gigi 
+;800060307;Melaksanakan penatalaksanaan kedaruratan gigi & mulut
+;800060308;Melaksanakan pekerjaan laboratoris gigi
+;800060309;Menjelaskan penggunaan herbal dalam keperawatan
+;800060310;Menjelaskan ilmu gizi dalam lingkup keperawatan
+;800060311;Menerapkan swamedikasi
+;800060600;Oral Diagnostik
+;800060700;Pendidikan Kesehatan Gigi
+;800060900;Farmakologi, Peralatan dan Perawatan Gigi
+;800060910;Asistensi Kesehatan Gigi
+;800060920;Asistensi
+;800061000;Dasar-dasar Ilmu Kedokteran Gigi
+;800061100;Farmakologi Bahan dan Obat Kedokteran Gigi
+;800061200;Manajemen Kesehatan Gigi dan Mulut
+;800061300;Alat Kesehatan Gigi,Pencegahan dan Pengendalian Penyakit
+;800061400;Kegawatdaruratan Umum, Gigi, dan Mulut
+;800061500;Komunikasi Interpersonal dan Penjaminan mutu
+;800070100;Anatomi dan Fisiologi
+;800070200;Anatomi Fisiologi
+;800080200;Laboratorium Dasar
+;800080210;Ilmu Keperawatan
+;800080220;Laboratorium Kesehatan Dasar
+;800080230;Dasar Manajemen Laboratorium Dan Kesehatan Lingkungan
+;800081000;Histologi
+;800081100;Imunoserologi
+;800081200;Kimia Klinik
+;800081300;Mikrobiologi Kesehatan
+;800090100;Perlindungan Khusus
+;800090200;Perundang-undangan Kesehatan
+;800100100;Psikologi
+;801010100;Hukum Kesejahteraan Sosial
+;801030100;Kontak dengan Klien dan Lingkungan Sosial
+;801030200;Masalah Sosial
+;801030300;Keterampilan Teknis Perawatan Sosial
+;801030301;Melakukan kerja sama dengan berbagai jenis klien
+;801030302;Melakukan kerja sama di lingkungan sosial klien
+;801030303;Melakukan pencatatan, pelaporan & temu bahas kasus
+;801030304;Menerapkan kode etik pekerjaan sosial
+;801030305;Menjelaskan dasar-dasar pekerjaan sosial
+;801030306;Menerapkan teknik-teknik pekerjaan sosial
+;801030307;Menerapkan prosedur pelayanan di lembaga pelayanan sosial
+;801030308;Melakukan asesmen
+;801030309;Melaksanakan intervensi
+;801030310;Melakukan terminasi (pengakhiran hubungan kerja)
+;801030311;Melakukan referal 
+;801030400;Metode Perawatan Sosial
+;801030500;Praktikum Perawatan Sosial
+;801030600;Gerontik
+;801030700;Konseling Lanjut Usia dan keluarga
+;801030800;Rehabilitasi Sosial Adiksi korban NAPZA
+;801030900;Terapi Lanjut Usia
+;801031000;Pemberdayaan Lanjut Usia
+;801031100;Pengasuhan dan Advokasi Anak
+;801031200;Perawatan dan Pelayanan Lansia
+;801031300;Rehabilitasi Sosial Disabilitas
+;801031400;Pengetahuan Dasar Pekerjaan Sosial
+;801031500;Keterampilan Teknis Pekerjaan Sosial
+;801031600;Pelayanan Kesejahteraan Sosial
+;801040110;Gerontologi
+;801040200;Kesehatan Mental dan Ketidakmampuan Lanjut Usia
+;801040300;Komunikasi dan Relasi
+;801040400;Psikososial Lanjut Usia
+;801050100;Kewirausahaan
+;802000100;KKPI
+;802000300;Teknologi Informasi dan Komunikasi
+;802000400;Sistem Komputer
+;802000500;Sistem Operasi
+;802010100;Pemrograman Dasar
+;802010200;Pemrograman WEB
+;802010300;Pemrogram Desktop
+;802010400;Pemrograman Berorientasi Obyek
+;802010500;Pemrogram WEB Dinamis
+;802010600;Pemrogram Grafik
+;802010700;Pemrograman Perangkat Bergerak
+;802010710;Pemrograman Web dan Perangkat Bergerak
+;802010900;Teknik Pemrograman
+;802011000;Kerja Proyek Teknik Komputer dan Jaringan
+;802011001;Melakukan ins. PC
+;802011002;Menjelaskan teknik elektronika analog & digital dasar
+;802011003;Melakukan perbaikan periferal
+;802011004;Melakukan perawatan,perbaikan & atau setting ulang sistem PC
+;802011005;Melakukan ins. sistem operasi & aplikasi berbasis GUI & CLI
+;802011006;Melakukan ins., perawatan & perbaikan perangkat LAN
+;802011007;Melakukan ins. sistem operasi jaringan berbasis GUI & CLI
+;802011008;Melakukan ins., perawatan & perbaikan perangkat WAN
+;802011009;Merancang sistem keamanan jaringan
+;802011010;Melakukan administrasi server dalam jaringan
+;802011011;Merancang data base untuk web content server
+;802020100;Perakitan Komputer
+;802020200;Jaringan Dasar
+;802020210;Komputer dan Jaringan Dasar
+;802020300;Pemodelan Perangkat Lunak
+;802020301;Menjelaskan algoritma pemrograman
+;802020302;Membuat paket soft aplikasi berbasis desktop tingkat dasar
+;802020303;Membuat paket soft aplikasi berbasis desktop tingkat lanjut
+;802020304;Mengoperasikan sistem operasi jaringan komputer
+;802020305;Melakukan pemrograman basis data (SQL)
+;802020306;Membuat halaman web statis
+;802020307;Membuat halaman web dinamis tingkat dasar
+;802020308;Membuat halaman web dinamis tingkat lanjut
+;802020309;Melakukan pemrog. b.orientasi obj berbasis teks deskt & web
+;802020400;Basis Data
+;802020500;Administrasi Basis Data
+;802020510;Kerja Proyek Teknik Rekayasa Perangkat Lunak
+;802020600;Komputer Terapan
+;802020700;Komunikasi Data
+;802020800;Sistem Operasi Jaringan
+;802020900;Administrasi Server
+;802020910;Administrasi Infrastruktur Jaringan
+;802020920;Administrasi Sistem Jaringan
+;802021000;Rancang Bangun Jaringan
+;802021100;Jaringan Nirkabel
+;802021200;Keamanan Jaringan
+;802021300;Troubleshooting Jaringan
+;802021800;Teknologi Jaringan Berbasis Luas (WAN)
+;802021900;Teknologi Layanan Jaringan
+;802030100;Desain Grafis
+;802030110;Dasar Desain Grafis
+;802030300;Simulasi Digital
+;802030310;Simulasi dan Komunikasi Digital
+;802030400;Menggabar dengan Komputer
+;802030410;Desain Interior Kapal dengan CAD
+;802030601;Melakukan ins. personal `computer
+;802030602;Menjelaskan dasar-dasar multimedia
+;802030603;Mendesain & mengelola isi halaman web
+;802030604;Melakukan pengambilan gambar video
+;802030605;Membuat animasi digital
+;802030606;Melakukan pengolahan gambar digital
+;802030607;Melakukan editing audio
+;802030608;Melakukan editing video
+;802030609;Menyusun proposal penawaran projek multimedia
+;802030900;Desain Multimedia
+;802031000;Pengolahan Citra Digital
+;802031100;Teknik Animasi 2 Dimensi
+;802031101;Memahami dasar-dasar animasi
+;802031102;Menggambar (life drawing)
+;802031103;Mengoperasikan komputer grafis & animasi
+;802031104;Melakukan pra produksi animasi
+;802031105;Memproduksi animasi 2D
+;802031106;Memproduksi animasi 3D
+;802031107;Melakukan produksi media
+;802031108;Melakukan pembuatan game sederhana
+;802031110;Animasi 2D
+;802031200;Teknik Animasi 3 Dimensi
+;802031210;Animasi 3D
+;802031300;Komposisi Foto Digital
+;802031400;Teknik Pengambilan Gambar Bergerak
+;802031500;Teknik Pengolahan Audio
+;802031501;Menerapkan keselamatan, kesehatan kerja (K3)
+;802031502;Menerapkan dasar2 kelistrikan, elektronika & teknik digital
+;802031503;Melakukan ins. sound system
+;802031504;Membuat rekaman audio di studio
+;802031505;Memperbaiki radio penerima,compact kaset recorder &CD player
+;802031506;Memperbaiki sistem penerima televisi
+;802031507;Memperb. alat reprod. sinyl audio video compact kaset & CD
+;802031508;Melakukan konversi cassette ke CD
+;802031509;Melakukan ins. & perawatan home theater
+;802031510;Melakukan ins. & perawatan video game
+;802031511;Membuat dokumentasi video
+;802031512;Melakukan ins. sistem audio video CCTV
+;802031513;Melakukan ins. peralatan audio video mobil
+;802031600;Teknik Pengolahan Vidio
+;802031700;Desain Multimedia Interaktif
+;802031710;Kerja Proyek Multimedia
+;802031800;Videography
+;802031900;Animasi 2 dimensi dan 3 dimensi
+;802031910;Digital Animasi
+;802031920;Digital Prosesing
+;802032100;Game Edukasi
+;802032110;Teknologi Pengolahan Audio dan Video
+;802032200;Fotografi
+;802032300;Komputer Grafis
+;802032400;Videografi
+;802032500;Karya Desain Komunikasi Visual
+;802032501;Mengoperasikan komputer grafis
+;802032502;Melaksanakan proses pekerjaan fotografi
+;802032503;Mempersiapkan, melaksankn & mempross hsl shooting videografi
+;802032504;Mempersiapkan pembuatan produk desain komunikasi visual
+;802032505;Membuat produk desain komunikasi teknik saring
+;802032506;Membuat produk desain komunikasi mengrh ke media ind&outdoor
+;802032507;Membuat produk desain kom.visual mengrh ke media televisi
+;802032508;Melakukan paska produksi desain kom. visual (post design)
+;802032509;Melaksanakan pameran hasil karya desain komunikasi visual
+;802032600;Sablon (Screen Printing)
+;802032700;Menggambar dengan Perangkat Lunak
+;802032800;Desain Publikasi
+;802032900;Design media interaktif
+;802033100;Teknik animasi 2D dan 3D
+;802033200;Animasi
+;802040100;Teknologi Penyiaran
+;802040200;Perekaman
+;802040300;Editing
+;802040400;Pengetahuan Broadcasting
+;802040500;Susun Huruf Komputer
+;802040700;Komunikasi Massa
+;802040800;Produksi Audio Visual
+;802040900;Dasar Seni Audio Visual
+;803010100;Teknik Elektronika Dasar
+;803010200;Teknik Microprosessor
+;803010300;Dasar Listrik dan Elektronika
+;803010400;Elektronika dan Microprosesor
+;803020400;Sistem Telekomunikasi
+;803020401;Dasar Sistem Telekomunikasi
+;803020501;Memahami teknik dasar elektronika analog &digital serta kom.
+;803020502;Menerapkan dasar-dasar komunikasi siaran radio
+;803020503;Membuat program siaran radio
+;803020504;Melaksanakan siaran radio on-air
+;803020505;Melaksanakan jurnalisme radio
+;803020506;Melaksanakan program musik
+;803020507;Merancang program cerita radio
+;803020508;Merancang jadwal produksi harian/running sheet
+;803020700;Sistem Komunikasi Satelit
+;803020900;Sistem Komunikasi Bergerak/Seluler
+;803021100;PABX
+;803021200;Transmisi Broadband NGN
+;803021300;Sistem Manajemen Jaringan
+;803021400;Sistem Transmisi Backbone
+;803021500;Kerja Proyek Telekomunikasi
+;803021600;Operasi dan Pemeliharaan Jaringan Utama
+;803021700;Operasi dan Pemeliharaan Transmisi Kabel Laut
+;803021800;Operasi dan Pemeliharaan Transmisi Radio
+;803021900;Operasi dan Pemeliharaan Transmisi Satelit
+;803030400;Multiplexing PDH dan SDH
+;803030501;Menerapkan prosedur kerja transmisi telekomunikasi
+;803030502;Memahami dasar-dasar sistem telekomunikasi
+;803030503;Melakukan ins. perangkat terminal & jaringan telekomunikasi 
+;803030504;Melakukan ins. sistem pentanahan (grounding) & pengaman 
+;803030505;Melakukan ins. PSTN
+;803030506;Melakukan ins., mengoperasikan & memelihara PABX
+;803030507;Mengoperasikan & memelihara sentral telepon digital
+;803030508;Melakukan ins., mengoperasikan & memelihara softswitch
+;803030509;Membuat perencanaan jaringan & kebutuhan layanan komunikasi
+;803030510;Melakukan ins., mengop.n & memelihara sentral telpn seluler
+;803040400;Teknik Instalasi Jaringan Akses Radio (JARLOKAR)
+;803040500;Teknik Instalasi Jaringan Akses Tembaga (JARLOKAT)
+;803040700;Operasi dan Pemeliharaan Jaringan Akses Pelanggan
+;803040800;Teknik Instalasi Jaringan Akses Fiber (JARLOKAF)
+;803041000;Instalasi VOIP
+;803041100;Pengukuran Trafik Telekomunikasi
+;803041200;Networking NGN
+;803041300;Instalasi di Pelanggan (CPE)
+;803041400;Instalasi VSAT
+;803041500;Merancang Jaringan Akses Telekomunikasi
+;803041501;Menerapkan teknis projek telekomunikasi
+;803041502;Menjelaskan dasar2 sistem telekomunikasi&komunikasi data
+;803041503;Melakukan ins. catu daya & batere sistem telekomunikasi
+;803041504;Melakukan ins. kabel rumah/gedung
+;803041505;Melakukan ins. jaringn tembaga multipair ats tanah & bwh tnh
+;803041506;Melakukan ins. di terminal jaringan akses tembaga multipair
+;803041507;Melakukan ins. perangkat pendukung di jaringan akses tembaga
+;803041508;Mengoperasikan & memelihara jaringan wireless broadband
+;803041509;Melakukan ins. jaringan akses serat optik
+;803041510;Menjelaskan arsitektur jaringan selular
+;803041511;Melakukan ins. antena & feeder pd jaringan akses wireless
+;803041512;Melaksanakan ins. antena VSAT
+;803041513;Melakukan ins. di terminal milik pelanggan (CPE)
+;803041600;Kerja Proyek Work Telekomunikasi
+;803041700;Layanan Komputasi Awan (SaaS)
+;803041800;Platform Komputasi Awan (PaaS)
+;803041900;Sistem Internet of Things (SloT)
+;803042000;Sistem Keamanan Jaringan
+;803042100;Instalasi dan Konfigurasi CPE
+;803042200;Instalasi dan Pemeliharaan VSAT
+;803042300;Instalasi Jaringan FTTH
+;803042400;Koneksi Jaringan Telekomunikasi
+;803042500;Infrastruktur Komputasi Awan (IaaS)
+;803050100;Pengetahuan Listrik, Elektronika dan Digital
+;803050101;Menerapkan dasar-dasar teknik mesin
+;803050102;Melaksanakan pengukuran besaran listrik & gambar teknik
+;803050103;Melakukan pekerjaan bengkel elektronika
+;803050104;Mengoperasikan mesin perkakas powertool & konvensional
+;803050105;Mengoperasikan sensor
+;803050106;Mengoperasikan peralatan elektronik & kelistrikan
+;803050107;Mengoperasikan peralatan pneumatik & hidrolik
+;803050108;Mengoperasikan Programmable Logic Controller (PLC)
+;803050200;Pekerjaan Dasar Elektromekanika
+;803050300;Rangkaian Elektronika
+;803050400;Penerapan Rangkaian Elektronika
+;803060100;Perencanaan dan Instalasi Sistem Audio
+;803060200;Perekayasaan Sistem Audio
+;803060300;Perekayasaan Sistem Radio dan Televisi
+;803060301;Menjelaskan dasar-dasar teknologi TV
+;803060302;Melakukan pembuatan naskah/skenario drama & non drama
+;803060303;Melakukan manajemen produksi
+;803060304;Melakukan penataan artistik
+;803060305;Menggunakan peralatan tata cahaya
+;803060306;Menggunakan peralatan audio 
+;803060307;Mengoperasikan kamera foto
+;803060308;Mengoperasikan kamera video
+;803060309;Merancang koordinasi produksi program acara
+;803060310;Melakukan editing
+;803060400;Perekayasaan Sistem Atena
+;803060500;Perencanaan dan Instalasi Sistem Atena Penerima
+;803060600;Perbaikan dan Perawatan Peralatan Elektronika A.V
+;803060700;Perencanaan Sistem Komunikasi
+;803060800;Penerapan Sistem Radio dan Televisi
+;803060900;Perawatan dan Perbaikan Peralatan Audio dan Video
+;803061000;Perencanaan dan Instalasi Sistem Audio Video
+;803061100;Editing Audio dan Video
+;803070100;Komunikasi Data dan Interface
+;803070200;Sensor dan Akuator
+;803070300;Perekayasaan Sistem Kontrol
+;803070310;Sistem Pengendali Elektronik
+;803070400;Perekayasaan Sistem Robotik
+;803070700;Pembuatan dan Pemeliharaan Peralatan Elektronik
+;803070800;Mikroprosesor dan Mikrokontroler
+;803070810;Teknik Pemrograman, Mikroprosesor dan Mikrokontroler
+;803070900;Pembuatan , Perbaikan dan PemeliharaanPeralatan Elektronika
+;803071000;Pengendali Sistem Robotik
+;803071100;Instalasi dan Perbaikan Sistem Komunikasi digital& teknologi komunikasi bergerak
+;803071200;Instalasi dan Perbaikan Sistem Televisi
+;803071300;Penerapan Rangkaian Elektronika daya dan komunikasi
+;803071400;PenerapanSistem Transmisi Gelombang Elektromagnetik
+;803071500;Instalasi dan Perbaikan Perangkat dan Media Transmisi Elektronika
+;803080200;Perencanaan dan Instalasi Sistem Pemancar
+;803080300;Perencanaan & Instalasi Atena Pemancar &Penerima
+;803080400;Perbaikan & Prwtn Peralatan Elektronika Komunikasi
+;803080501;Menjelaskan dasar-dasar sistem telekomunikasi
+;803080502;Melaksanakan peker.ins. pd panel koneksi di ruangtransmisi
+;803080503;Melaksanakan pekerjaan ins. antena & perangkat pendukungnya
+;803080504;Melaksanakan penyambungan kabel serat optik
+;803080505;Menerapkan ins. perangkat radio & pendukungnya
+;803080506;Menjelskan teknik pekerj ins & prosdr multiplekser PDH & SDH
+;803080507;Melaksanakan ins. antena & feeder di base station
+;803080508;Menerapkan prosdr pengujian perngkat kras & lunak terbaru
+;803080700;Piranti Sensor & Aktuator
+;803080800;Sistem Kontrol Elektromekanik & Elektronik
+;803080900;Sistem Kontrol Terprogram
+;803080910;Sistem Kontrol Otomatik
+;803081000;Sistem Kontrol Elektropnumatik
+;803081100;Gambar & Perencanaan
+;803081200;Pemeliharaan sistem Instrumentasi dan Otomatisasi proses
+;803081300;Pengukuran Besaran Instrumentasi dan Otomatisasi Proses
+;803081400;Sistem Kendali Instrumentasi dan Otomatisasi Proses
+;803090100;Pemrograman dan Aplikasi Mikrokontroler Instrumentasi Medik
+;803090200;Penerapan Rangkaian Elektronika Instrumentasi Medik
+;803090300;Pengoperasian, Perawatan dan Perbaikan Instrumentasi Medik
+;803090400;Perekayasaan Kontrol Instrumentasi Medik
+;804010100;Gambar Teknik
+;804010200;Gambar Interior dan Eksterior Bangunan Gedung
+;804010210;Aplikasi Perangkat Lunak dan Perancangan Interior Gedung
+;804010300;Gambar Konstruksi Baja
+;804010400;Gambar Konstruksi Bangunan
+;804010500;Gambar Teknik listrik
+;804010700;Gambar Dengan CAD
+;804010800;Menggamabar dengan Perangkat Lunak
+;804010900;Gambar Teknik Pesawat Udara dan CAD
+;804011000;Kerja Bengkel dan Gambar Teknik
+;804011100;Gambar Teknik Instrumentasi
+;804011200;Gambar Teknik Otomotif
+;804011300;Gambar Teknik dan Presentasi
+;804011400;Ilmu Bahan Teknik dan Gambar Teknik
+;804011500;Gambar Teknik Manufaktur
+;804020100;Mekanika Teknik
+;804030100;Ukur Tanah
+;804030200;Teknik Pengukuran Tanah
+;804040100;Ilmu Batuan 
+;804040110;Estimasi Biaya Konstruksi
+;804040120;Estimasi Biaya Konstruksi dan Properti
+;804040130;Estimasi Biaya Pekerjaan Jalan, Irigasi, dan Jembatan
+;804040200;Konstruksi Bangunan Gedung
+;804040300;Perawatan Gedung
+;804040400;Sistem Utilitas Bangunan Gedung
+;804040500;Estimasi Biaya Konstruksi, Sanitasi, dan Perawatan Gedung
+;804050100;Pengawasan Pekerjaan Konstruksi Baja
+;804050200;Pelaksanaan Pekerjaan Konstruksi Baja
+;804050300;Teknologi Dasar Konstruksi Baja
+;804050301;Menjelaskan ilmu bangunan & bahan bangunan
+;804050302;Menjelaskan dasar-dasar konstruksi baja
+;804050303;Melakukan perencanaan struktur konstruksi baja
+;804050304;Melakukan pekerjaan konstruksi baja
+;804050305;Menjelaskan sistem pemeriksaan & perbaikan pd pekerjaan
+;804050306;Menjelaskan proses pengawasan pd pemasangan rangka atap baja
+;804050307;Merancang as built drawing
+;804050308;Menyusun anggaran biaya pekerjaan konstruksi baja
+;804050400;Konstruksi Bangunan
+;804050401;Menerapkan ilmu statika & tegangan
+;804050402;Menjelaskan dasar-dasar ilmu bangunan 
+;804050403;Menggambar bangunan secara manual & dengan perangkat lunak 
+;804050404;Menggambar rencana kolom & balok beton bertulang
+;804050405;Menggambar rencana konstuksi lantai & dinding
+;804050406;Menggambar konstruksi kusen, pintu & jendela
+;804050407;Menggambar konstruksi langit-langit, atap & tangga
+;804050408;Menggambar utilitas gedung
+;804050409;Menggambar dekorasi interior & eksterior bangunan
+;804050410;Mengidentifikasi material finishing bangunan
+;804050411;Merancang partisi ruang
+;804050420;Dasar-dasar Konstruksi Bangunan
+;804050450;Pelaksanaan dan Pengawasan Konstruksi dan Properti
+;804050460;Pengelolaan Bisnis Konstruksi dan Properti
+;804050470;Perencanaan Bisnis Konstruksi dan Properti
+;804050480;Dasar-dasar Konstruksi Bangunan dan Teknik Pengukuran Tanah
+;804050500;Teknologi Konstruksi Kayu
+;804050501;Merencanakan pekerjaan konstruksi kayu
+;804050502;Melakukan kerja kayu dengan alat tangan & listrik
+;804050503;Melakukan kerja kayu dengan mesin tetap (statis)
+;804050504;Melaksanakan pekerjaan konstruksi kayu
+;804050505;Melaksanakan pekerjaan finishing konstruksi kayu
+;804050600;Pelaksanaan Konstruksi Kayu
+;804050700;Finishing Konstruksi Kayu
+;804050800;Konstruksi Batu
+;804050801;Mengidentifikasi bahan bangunan
+;804050802;Menerapkan dasar-dasar ilmu bangunan
+;804050803;Melakukan perencanaan pekerjaan konstruksi batu & beton
+;804050804;Menggunkn perlatn tngan & mknik listrik pd konst. batu beton
+;804050805;Melakukan pengelolaan pekerjaan konstruksi batu & beton
+;804050806;Melaksanakan pekerjaan konstruksi batu & beton
+;804050807;Melaksanakan pekerjaan finishing bangunan
+;804050808;Melaksanakan pekerjaan beton pracetak
+;804050809;Melaksanakan pekerjaan jalan
+;804050900;Konstruksi Beton Bertulang
+;804051000;Teknik Konstruksi Furnitur
+;804051001;Menerapkan dasar ilmu bangunan
+;804051002;Menerapkan pekerjaan dasar-dasar furnitur/cabinet making
+;804051003;Merencanakan pekerjaan mebel kayu
+;804051004;Menggun.peraltn tangan, listrik & mesin ttp/sttis peker kayu
+;804051005;Membuat sambungan & hbngan kayu utk pekerjaan mebel/furnitur
+;804051006;Membuat komponen & detail sambungan bentuk rumit
+;804051007;Melakukan penyetelan & perakitan mebel & asesoris
+;804051008;Merencanakan & melaksanakan pekerjaan ukir
+;804051009;Merencanakan & melaksanakan pekerjaan finishing
+;804051100;Finishing Bangunan
+;804051200;Teknik Furnitur
+;804060100;Keselamatan Kerja dan Kesehatan Lingkungan
+;804060200;Perencanaan Konstruksi Jalan,Irigasi, dan Jembatan
+;804060300;Teknik Pelaksanaan dan Pekerjaan Jalan
+;804060400;Teknik Pelaksanaan dan Pengawasan Pekerjaan Irigasi
+;804060500;Teknik Pelaksanaan dan Pengawasan Pekerjaan Jembatan
+;804070100;Teknologi Bahan
+;804080100;Rekayasa dan Pemodelan Furnitur
+;804080200;Peralatan Tangan dan Mesin Pengerjaan Kayu
+;804080300;Teknik Finishing Furnitur
+;804080400;Teknik Pengejokan
+;804080500;Pengetahuan Bahan Plambing
+;804080600;Dasar-dasar Plambing
+;804080700;Gambar Dasar Plambing
+;804080800;Gambar dan Rencana Anggarana Biaya (RAB)
+;804090100;Sistem Penyediaan Air Bersih
+;804090200;Teknik Saniter dan Sistem Pembuangan Air Kotor
+;804090300;Perancangan Pipa dan Pompa Air
+;804090301;Menerapkan dasar-dasar plumbing
+;804090302;Memasang alat sanitair
+;804090303;Menerapkan sistem penyediaan air bersih
+;804090304;Memasang ins. pipa air kotor
+;804090305;Menerapkan sistem plambing pipa tembaga
+;804090306;Menerapkan sistem pembuangan air kotor/ drainase
+;804090307;Membuat gambar ins. plambing
+;804090308;Melakukan perhitungan laju aliran  air
+;804090309;Menerapkan perencanaan pompa air
+;804090310;Menerapkan sistem pengolahan limbah 
+;804090311;Menghitung renc. anggaran & belanja (RAB) pekerj. plumbing  
+;804090400;Hidrolika
+;804100100;Dasar dan Pengukuran Listrik
+;804100200;Penggerak Mula
+;804100300;Generator
+;804100400;Instrumentasi dan Kontrol Pembangkitan
+;804100500;Jaringan Transmisi Tenaga Listrik
+;804100501;Memelihara sarana elektronik, komunikasi & penunjang
+;804100502;Memelihara sistem kelistrikan & instrumen kontrol & proteksi
+;804100503;Memasang & memelihara kelengkapan isolator
+;804100504;Menyambung kawat saluran udara
+;804100505;Memasang jumper konduktor switchgear & groundwire
+;804100506;Memasang ins. penangkal petir & pembumian gedung
+;804100507;Mengukur tahanan peralatan listrik,isolasi,&kontak sambungan
+;804100508;Mengukur temperatur titik sambung&ratio kumparan trafo daya
+;804100509;Memasang tap changer & mengganti transformator daya
+;804100510;Memelihara peralatan DC power
+;804100600;Jaringan Distribusi Tenaga Listrik
+;804100601;Memasang APP & alat ukur
+;804100602;Memasang saluran tegangan rendah & menengah
+;804100603;Mengoperasikan saluran pelanggan & tegangan rendah & opstig
+;804100604;Mengoperasikan peralatan & semi automatic change over
+;804100605;Mengoperasikan saluran udara & SUTR
+;804100606;Memperbaiki gangguan pd alat pembatas & pengukur
+;804100607;Mengoperasikan saluran kabel & udara pd tegangan menengah
+;804100608;Mengoperasikan pole top switch & saklar semi automatic
+;804100609;Mengoperasikan automatic & capacitor voltage regulator
+;804100610;Memasang & memelihara peralatan pendukung
+;804100700;Gardu Induk
+;804100800;Instalasi Penerangan Listrik
+;804100810;Teknik Instalasi Penerangan Listrik
+;804100820;Teknik Instalasi Pneumatik
+;804100900;Instalasi Tenaga Listrik
+;804100901;Menerapkan rangkaian, besaran, & standarisasi gambar listrik
+;804100902;Menerapkan pekerjaan mekanik dasar 
+;804100903;Menerapkan dasar-dasar elektronika
+;804100904;Melakukan pengukuran komponen elektronika
+;804100905;Merawat peralatan rumah tangga listrik
+;804100906;Memasang ins. tenaga listrik
+;804100907;Memperbaiki motor listrik
+;804100908;Mengoperasikan sistem pengendali 
+;804100909;Memasang sistem pentanahan ins. listrik
+;804100910;Merawat panel listrik & switchgear
+;804100920;Teknik Instalasi Tenaga Listrik
+;804101000;Instalasi Motor Listrik
+;804101100;Pekerjaan Dasar Elektromekanik
+;804101200;Mesin Listrik Pembangkit
+;804101300;Perangkat Pembangkit
+;804101400;Proteksi Listrik Pembangkit
+;804101500;Perbaikan Peralatan Listrik
+;804110100;Teknologi Mekanik
+;804110101;Mengoper. sistm kendali berbasis elektro. & elektronik
+;804110102;Mengoperasikan sistem kendali pd otomasi industri
+;804110103;Merakit sistem kendali berbasis relay 
+;804110104;Merakit sistem kendali elektropneumatik 
+;804110105;Merakit sistem PLC 
+;804110106;Memelihara sistem kendali elektrik
+;804110107;Memelihara sistem kendali pneumatik 
+;804110108;Memelihara sistem PLC/SCADA otomasi industri
+;804110200;Kelistrikan Mesin dan Konversi Energi
+;804110300;Mekanika Teknik dan elemen mesin
+;804110400;Teknik Gambar Manufaktur
+;804110500;Teknik Pemesinan Bubut
+;804110501;Melaksanakan penanganan material secara manual
+;804110502;Melaksanakan pekerjaan pemesinan operasi dasar
+;804110503;Melaksanakan pekerjaan pemesinan operasi kompleks
+;804110504;Memprogram mesin NC/CNC
+;804110505;Mengoperasikan mesin NC/CNC
+;804110600;Teknik Pemesinan Frais
+;804110700;Teknik Pemesinan Gerinda
+;804110800;Teknik Pemesinan CNC
+;804110900;Dasar Perancangan Teknik Mesin
+;804111000;Teknik Pemesinan NC/CNC dan CAM
+;804111100;Perawatan dan Perbaikan Peralatan Mekatronik
+;804111200;Pekerjaan Dasar Teknik Mesin
+;804120100;Teknik Pengelasan Oksi-Asetilin (OAW)
+;804120200;Teknik Pengelasan Las busur Manual (SMAW)
+;804120300;Teknik Pengelasan Gas Metal (MIG/MAG)
+;804120400;Teknik Pengelasan Gas Tungsten (TIG/WIG)
+;804130100;Gambar Teknik Fabrikasi Logam
+;804130101;Melaksanakan fabrikasi tingkat dasar
+;804130102;Melakukan rutinitas penglsan menggunkn pros las busur manual
+;804130103;Mengelas dengan proses las MIG (GMAW)
+;804130104;Melaksanakan fabrikasi tingkat lanjut
+;804130105;Menggambar bukaan/bentangan geometri 
+;804130200;Teknik Penyambungan Logam
+;804130300;Teknik Pembentukan dan Perakitan Fabrikasi Logam
+;804130400;Teknik Konstruksi Fabrikasi Logam
+;804130500;Teknik Pengendalian Instrumen Logam
+;804130600;Teknik Pembuatan Pola
+;804130700;Teknik Pembuatan Cetakan dan Inti
+;804130800;Teknik Pengerjaan Logam
+;804130900;Pembuatan Komponen Instrumen Logam
+;804131000;Pemeliharaan dan Perbaikan Instrumen Logam
+;804131100;Penggantian Instrumen Logam dan Gelas
+;804131101;Menerapkan keselamatan & kesehatan kerja lingkungan hidup 
+;804131102;Memelihara peralatan produksi instrumentasi
+;804131103;Pembuatan instrumentasi secara manual
+;804131104;Mengoperasikan perkakas & peralatan pembuatan instrumentasi 
+;804131105;Memperbaiki instrumentasi
+;804131106;Melaksanakan kontrol kualitas pd instrumentasi
+;804131200;Pembuatan Instrumen Logam dan Gelas
+;804131300;Teknologi dasar Pengerjaan Logam
+;804131400;Teknologi Pengerjaan Non Logam
+;804131500;Pembubutan Logam dan Pengelasan Logam
+;804131510;Pembubutan Logam
+;804131520;Pengelasan Logam
+;804131530;Pengelasan dan Pembubutan
+;804131600;Pengecoran Logam
+;804131601;Menggunakan peralatan pembandingan &/atau alat ukur
+;804131602;Membaca sketsa & gambar teknik
+;804131603;Menggunakan mesin untuk operasi dasar
+;804131604;Melakukan peleburan logam
+;804131605;Melakukan operasi pengecoran tingkat dasar
+;804131606;Membuat pelat pola & pola resin
+;804131607;Melakukan operasi pengecoran tingkat lanjut
+;804131700;Finishing Logam
+;804132100;Penerapan Pengujian Mutu
+;804132200;Perancangan Teknik dan Gambar Manufaktur-Fabrikasi
+;804132300;Teknik Fabrikasi Logam
+;804132400;Teknik Pemesinan Konvensional
+;804132500;Teknik Pemesinan Non Konvensional
+;804140100;Peknik Pengecoran dan Perlakukan Panas 
+;804140200;Teknik Pengoperasian Mesin Pengecoran
+;804140300;Teknik Pengecoran dengan Mesin
+;804140400;Teknik Pengecoran Manual
+;804150100;Teknik Pemeliharaan Mekanik Mesin Industri
+;804150101;Melakukan pengelasan dengan las oks, busur manual & las gas
+;804150102;Memasang & memperbaiki komponen permesinan
+;804150103;Memelihara & memperbaiki rakitan penggerak & pembawa mekanik
+;804150104;Memelihara & memperbaiki komponen sistem hidrolik
+;804150105;Memelihara & memperbaiki komponen sistem pneumatik
+;804150106;Mendiagnosis&memperbaiki kesalhan pd peralatan listrik AC/DC
+;804150200;Tekinik Pemeliharaan Sistem Pnematik dan Hidrolik
+;804150300;Teknik Pemeliharaan Sis Kelistrikan Mesin Perkakas
+;804150400;Proses Produksi dan Konstruksi Mesin
+;804150500;Sistem Kelistrikan Mesin Industri
+;804150600;Sistem Pneumatik dan Hidrolik
+;804150700;Teknik Mekanik Mesin Industri
+;804160100;Teknik Produksi Dengan Mesin Perkakas
+;804160200;Teknik Gambar Produksi dan Konstruksi Mesin
+;804160201;Melak. rutin. las oks-asetilen, las busur manual & las gas
+;804160202;Melaksanakan fabrikasi, pemben. pelengkungan, & pencetakan
+;804160203;Merancang gambar teknik
+;804160204;Membuat bukaan/bentangan geometri
+;804160205;Menggambar 2D & 3D dengan sistem CAD
+;804160300;Teknik Gambar Mesin 2D dengan CAD
+;804160400;Teknik Gambar Mesin 3D dengan CAD
+;804160500;Teknik Desain Gambar dengan CAM
+;804160600;Teknik Gambar Konstruksi
+;804160700;Teknik Gambar Produksi
+;804160800;Teknik Merancang dengan CAM
+;804170100;Teknik Kelistrikan dan Elektronika Instrumentasi
+;804170200;Kelistrikan dan Elektronika Instrumentasi
+;804180100;Teknik Dasar Instrumentasi
+;804180200;Dasar Instrumentasi
+;804190100;Teknik Pengukuran Besaran Proses Instrumentasi
+;804190200;Teknologi Instrumentasi Kontrol Proses
+;804200200;Teknik Pengendalian Sistem Kontrol Mekanik
+;804210100;Teknik Eksplorasi Dasar
+;804210200;Pengetahuan Industri Migas
+;805010100;Surveying
+;805010200;Pengantar Survey Pemetaan
+;805010300;Dasar-dasar Perhitungan Survey Pemetaan
+;805010400;Penginderaan Jauh
+;805010500;Sistem Informasi Geografis (SIG)
+;805010600;Aplikasi Sistem Informasi Geografis (SIG)
+;805010601;Menerapkan keselamatan & kesehatan kerja (K3)
+;805010602;Menerapkan dasar-dasar survei & pemetaan
+;805010603;Menerapkan dasar-dasar gambar teknik
+;805010604;Melaksanakan pengukuran posisi vertikal 
+;805010605;Melaksanakan pengukuran posisi horizontal
+;805010606;Melaksanakan pengukuran pemetaan topografi 
+;805010607;Melaksanakan pengukuran survei teknik sipil
+;805010608;Menentukan azimut dengan pengamatan matahari
+;805010609;Menentukan posisi dengan media satelit
+;805010610;Menerapkan fotogrametri dalam pembuatan peta
+;805010611;Menggunakan perangkat lunak untuk pengolahan&penyajian data
+;805010612;Menyusun rencana anggarn biaya pekerjaan survei & pemetaan
+;805010700;Survei Terestris Geospasial
+;805010800;Kartografi
+;805010900;Survei Terestris Geomatika
+;806010100;Proteksi Jaringan Tenaga Listrik
+;806010200;Sistem dan Instalasi Refrigerasi
+;806010300;Sistem dan Instalasi Tata Udara
+;806010400;Kontrol Refrigerasi dan Tata Udara
+;806010601;Melaksanakan pekerjaan dasar kelistrikan & dasar mekanik
+;806010602;Menerapkan gambar teknik dasar
+;806010603;Merawat & memperbaiki pengisian refrigeran
+;806010604;Melakukan perawatan & perbaikan mesin pendingin&cold storage
+;806010605;Membaca gambar mesin pendingin 
+;806010606;Mengambar sistem cold storage
+;806010607;Merencanakan perakitan sistem refrigerasi
+;806010608;Merawat & memperb. Kelist. sistm refrigrasi & sistm pengatrn
+;806010609;Mengoperasikan pendingin ruangan &pengaturan sstm tata udara
+;806010610;Merawat & memperbaiki kelistrikan sistem tata udara
+;806010611;Merawat & memperbaiki mesin pendingin
+;806010612;Merencanakan gambar sistem tata udara
+;806011100;Perawatan dan Perbaikan Peralatan Listrik
+;807010100;Basic Skills
+;807010200;Keterampilan Dasar (Aircraft Basic Skills)
+;807020100;Basic Aircraft Technology and Knowledgle (BATK)
+;807020200;Aircraft Structure
+;807020300;Aircraft Systems
+;807020500;Aircraft Manufacture & Assy Parts 
+;807020510;Perakitan Struktur Pesawat Udara (Aircraft Structure Assy)
+;807020520;Alat Bantu Perakitan Pesawat Udara (Aircraft Tools Jig and Fixture)
+;807020600;Aircraft Hydraulic & Pneumatic System
+;807020610;Instalasi Hidrolik dan Pneumatik Pesawat Udara
+;807020700;Aircraft Electrical Drawing
+;807020710;Gambar Listrik Pesawat Udara Dan CAD
+;807020800;Aircraft Electricity & Electronics
+;807020810;Listrik dan Elektronika Pesawat Udara
+;807020900;Aircraft Drawing & CAD
+;807021000;Aircraft Component Turning
+;807021100;Aircraft Component Milling
+;807021200;Aircraft Component CNC Machining
+;807021300;Aircraft Instrument
+;807021310;Instalasi Instrumen Pesawat Udara
+;807021320;Instruments Pesawat Udara
+;807021400;Aircraft Electrical System Assembly
+;807021410;Merakit Sistem Listrik Pesawat Udara
+;807021500;Aircraft Electronic Drawing
+;807021510;Aircraft Electronic CAD
+;807021600;Aircraft Electronic Circuits and Controller
+;807021610;Rangkaian Elektronika dan Kontroller
+;807021700;Aircraft Electrical System 
+;807021710;Instalasi Kelistrikan Pesawat Udara
+;807021720;Aircraft Electrical
+;807021800;Aircraft Electronic Communication & Navigation
+;807021810;Instalasi Komunikasi dan Navigasi Elektronik Pesawat Udara
+;807021900;Aircraft Sheet Metal Forming
+;807021910;Pembentukan Logam Pesawat Udara
+;807021920;Teknik Pengelasan Pesawat Udara
+;807022000;Aircraft Electronic, Comnav & Digital Technique
+;807022100;Aircraft Electronical
+;807022200;Aircraft Instruments & Autopilot
+;807022210;Aircraft Instruments
+;807022300;Digital and Microprocessor
+;807022400;Computer Aided Design
+;807022500;Pembubutan Komponen Pesawat Udara
+;807022600;Pemesinan CNC Komponen Pesawat Udara
+;807022700;Pengefraisan Komponen Pesawat Udara
+;808010100;Aerodynamics and Flight Control
+;808020200;Gambar Bukaan/Bentangan Geometri
+;808040400;Gas Turbine Engine
+;808050500;Maintenance Practice
+;808060600;Material Composite
+;808060610;Aircraft Komposite
+;808060620;Material Komposit Pesawat Udara (Aircraft Material Composite)
+;808070700;Electric Machine & Motor Control
+;808070701;Membuat rangkaian elekt. terapan berbasis micro-controller
+;808070702;Memperbaiki electronic management sistem
+;808070703;Memperbaiki sistem pengatur kecepatan otomatis
+;808070704;Memperbaiki sistem ABS, ASR/ETC & ESP
+;808070705;Memperbaiki sistem transmisi otomatis dgn kontrol elektronik
+;808070706;Memperbaiki sistem suspensi aktif
+;808070707;Memperbaiki sistem automatic airconditioning
+;808070708;Memperbaiki car audio video
+;808070709;Memperbaiki sistem light-tronic
+;808070710;Memperbaiki sistem alarm, central-lock & power windows
+;808070711;Memperbaiki sistem kontrol parkir
+;808070712;Memperbaiki sistem-sistem elektronik pd kendaraan
+;808080800;Electrical Avionics Drawing
+;809010100;Dasar-dasar Kegrafikaan
+;809010201;Membuat brief konsep desain
+;809010202;Menyusun huruf/type setting
+;809010203;Melaksanakan scanning/scanning image
+;809010204;Membuat foto reproduksi
+;809010205;Menggabung image secara manual & elektronik
+;809010206;Membuat layout siap ke film atau pelat
+;809010207;Membuat output image
+;809010208;Mencetak coba plate relief/letterpress
+;809010209;Membuat plate offset lithography
+;809010210;Membuat plate offset photopolymer
+;809010211;Membuat plate ganda
+;809010212;Membuat silinder gravure
+;809010301;Mengoperasikan mesin cetak
+;809010302;Memproduksi catakan dengan cetak saring
+;809010303;Melakukan pelipatan hasil cetakan
+;809010304;Melakukan susun gabung lembar hasil cetak
+;809010305;Melakukan laminating
+;809010306;Melakukan pemvernisan
+;809010307;Memotong kertas dengan mesin
+;809010308;Melaksanakan berbagai jenis penjili&
+;809010309;Membuat pisau pon/ril/embossing cetak
+;809010310;Mengepon hasil cetak & emboss
+;809010311;Mengelem hasil pon
+;809010312;Mengemas hasil cetak
+;809010500;Kalkulasi Grafika
+;809010800;Penyelesaian Grafika dan Pelapisan Cetakan
+;809010810;Penyelesain Grafika
+;809010900;Perencanaan dan Pengendalian Produksi
+;809020100;Pengolahan Limbah Industri Percetakan 
+;809020400;Cetak Tinggi dan Cetak dalam
+;809020500;Cetak Datar dan Cetak Digital
+;809020600;Cetak Saring dan Cetak Tampon/Pad Printing
+;809020700;Pembuatan Acuan Cetak
+;809020800;Perwajahan
+;809020900;Proses Cetak
+;809021000;Teknik Cetak
+;811010100;Foto Reproduksi dan Montase
+;811010300;Foto Reproduksi dan Acuan Cetak
+;813010100;Pemeliharaan dan Perawatan Sistem Kontrol Proses
+;813010101;Menerapkan dasar-dasar instrumentasi
+;813010102;Menggambar teknik sistem instrumentasi kontrol proses
+;813010103;Menerapkan konsep elektronika instrumentasi
+;813010104;Melakukan pengukuran besaran sistem inst kntrl proses
+;813010105;Melaksanakan pekerjaan mekanik & kelistrikan instrumentasi
+;813010106;Menggunakan power supply pneumatik pd sistm instrumentasi 
+;813010107;Menerapkan tek. Elekt. digital pd sistem instr. Kont. proses
+;813010108;Menerpkan sistm pengndlian bsran proses pd sistm kntrol pros
+;813010109;Menerapkan teknik pengendalian pd sistem instr. industri 
+;813010110;Menerapkan teknik digital pd sstm pengendalian besrn proses
+;813010111;Memperbaiki perltn & komponen sistm pengendlian besrn proses
+;813010112;Mendeskripsikan dasar-dasar instrumentasi industri
+;813010113;Menerapkan gambar teknik instrumentasi
+;813010114;Menerapkan konsep dasar elektronika instrumentasi
+;813010115;Menerapkan teknik pengukuran
+;813010116;Menerapkan sistem kontrol mekanik
+;813010117;Melakukan pemrograman sistem kontrol mekanik
+;813010118;Melakukan peker. Kons. pengendalian sistem kontrol mekanik
+;813010119;Melakukan perawatan & perbaikan sistem kontrol mekanik
+;814010100;Keselamatan, Kesehatan, Kerja dan Sikap Kerja
+;814010101;Kesehatan dan Keselamatan Kerja
+;814020100;Penanganan Material
+;814020200;Penanganan Material dan Sikap Kerja
+;814030100;Analisa Perancangan Kerja
+;814030600;Pengendalian Mutu
+;814030700;Perancangan Sistem Kerja dan Ergonomis
+;814030800;Perencanaan Tata letak Fasilitas
+;814030900;Sistem dan Pengendalian Produksi
+;814031000;Kimia Analisa Tekstil
+;814031100;Pergudangan
+;814031200;Material Handling Equipment
+;814031300;Logistik Multimoda
+;814031400;Penanganan Transportasi
+;814031500;Administrasi Pergudangan
+;814031600;Manajemen Distribusi dan  Delivery
+;814031700;Regulasi Sektor Logistik dan Keselamatan Kerja
+;814031800;Manajemen Transportasi
+;814031900;Manajemen Pergudangan
+;814032000;Manajemen Distribusi
+;814032100;Freight Forwarding
+;814040100;Pengendalian Produksi
+;814050100;Pengendalian Persediaan
+;814060100;Pengaturan Tata Letak Peralatan
+;814070100;Distribusi Barang
+;814070200;Pengendalian Dokumen Administrasi Gudang
+;814080100;Pengendalian Gudang
+;814080200;Penyimpanan dan Penggudangan
+;814090100;Peralatan Gudang
+;814100100;Pemintalan Serat Buatan
+;814100101;Mengidentifikasi serat tekstil
+;814100102;Melaksanakan pengujian benang tekstil
+;814100103;Menjelaskan proses persiapan pemintalan serat buatan
+;814100104;Melakukan proses pemintaan leleh
+;814100105;Melakukan proses pembuatan serat stapel
+;814100106;Melakukan proses texturizing
+;814100107;Meakukan pengujian bhn baku pulp, penimb. & pengeringan
+;814100108;Melakukan proses pemintalan basah
+;814100109;Melakukan proses pengujian hasil produksi
+;814100110;Memelihara komponen mesin & peralatan
+;814100131;Merawat & memelihara peralatan-peralatan unit mesin blowing
+;814100132;Menerapkan dasar-dasar ilmu tekstil
+;814100133;Melaksanakan proses pemintalan
+;814100134;Mengoperasikan & merawat unit mesin blowing
+;814100135;Mengoperasikan & merawat unit mesin carding
+;814100136;Mengoperasikan & merawat unit mesin lap former
+;814100137;Mengoperasikan & merawat unit mesin super lap
+;814100138;Mengoperasikan & merawat unit mesin combing
+;814100139;Mengoperasikan & merawat unit mesin drawing
+;814100140;Mengoperasikan & merawat unit mesin roving
+;814100141;Mengoperasikan & merawat mesin open end
+;814100142;Mengoperasikan mesin packing
+;814110100;Pengantar Ilmu Tekstil
+;814110200;Pengantar Teknologi Tekstil
+;814120100;Pengujian Bahan Tekstil
+;814130100;Polimerisasi
+;814140100;Pemintalan Leleh
+;814150100;Kualitas dan Hasil Produksi
+;814150200;Pengendalian Mutu Produksi
+;814160100;Produksi Bersih
+;814160200;Pengendalian Limbah Industri
+;814170100;Perbaikan dan Perawatan
+;814170200;Perawatan dan Perbaikan Mesin
+;815010100;Penanganan mesin Blowing
+;815010200;Penanganan mesin Carding dan Drawing
+;815010300;Penanganan mesin Combing
+;815010400;Penanganan mesin Roving
+;815010500;Penanganan mesin Ring Spinning
+;815010600;Penanganan mesin Oven End dan Winding
+;815010700;Pemeliharaan Mesin Pemintalan
+;815010800;Pemintalan Serat Stapel
+;815010900;Pengendalian Mutu Pemintalan
+;815011000;Persiapan Pemintalan Serat Stapel
+;816010100;Persiapan Pembuatan Kain
+;816010200;Desain Tekstil
+;816010300;Pembuatan Kain
+;816010301;Melaksanakan proses persiapan pembuatan kain
+;816010302;Melakukan proses penganjian benang
+;816010303;Merawat mekanis mesin-mesin persiapan pembuat kain
+;816010304;Menerapkan proses pembuatan kain tenun
+;816010305;Membuat kain dgn msn tenun teropong mnggunkn dobby& jacquard
+;816010306;Membuat kain dgn mesin tenun jet menggunkn cam/eksentrik
+;816010307;Membuat kain dengan mesin tenun rapier menggunakan tapet
+;816010308;Membuat kain dgn mesin tenun projektil mengg. tapet
+;816010309;Melakukan pemeriksaan & pengujian kain hasil produksi
+;816010310;Merawat mesin-mesin tenun
+;816010400;Pengendalian Mutu Kain
+;816010500;Perajutan
+;816010600;Pertenunan
+;816010700;Desain Anyaman
+;816020100;Pengelantangan
+;816030100;Pencelupan
+;816040100;Pencapan
+;816050100;Penyempurnaan Khusus
+;816070100;K3LH
+;816070101;Menerapkan keselamatan, kshtn kerja, dan lindung lingk
+;817010100;Geologi Dasar
+;817010101;Menjelaskan geologi dasar, ilmu batuan & bahan galian
+;817010102;Menjelaskan konsep eksplorasi & eksploitasi
+;817010103;Menerapkan konsep & dasar ilmu geologi, kristal & mineral
+;817010104;Menjelaskn btuan mik&makro fosil srta teknik penyajian fosil
+;817010105;Mengaplikasikan ilmu ukur tanah
+;817010106;Melakukan pemetaan geologi
+;817010107;Mengidentifikasi bahan galian
+;817010108;Menerapkan dasar-dasar pemboran
+;817010109;Menerapkan petrografi 
+;817010110;Menerapkan dasar2 manaj. usaha kecil pd usaha hasil tambang
+;817010111;Menerapkan teknik peledakan & eksplorasi bahan galian
+;817010112;Menjelaskan reklamasi daerah bekas tambang
+;817010113;Menerapkan sistem penambangan
+;817010200;Dasar-dasar Geologi
+;817020100;Teknik Reservoir dan Perhitungan Cadangan Migas
+;817020200;Teknik Reservoir
+;817030100;Teknik Produksi Migas
+;817030101;Menerapkan geologi dasar
+;817030102;Menerapkan ilmu batuan & bahan galian
+;817030103;Menerapkan konsep eksplorasi hidrokarbon
+;817030104;Menjelaskan tentang geologi migas & fluida reservoir
+;817030105;Menghitung ca&gan migas
+;817030106;Melakukan pengujian sumur (well testing)
+;817030107;Menjelaskan sistem pengangkatan minyak bumi
+;817030108;Menerapkan kerja sumur sembur alam & buatan
+;817030109;Menghitung kapasitas sumur sembur buatan ESP & pompa angguk
+;817030110;Mendeskripsikan perltn penguk. pd produksi di permuk & migas
+;817030111;Mengoperasikan & merawat sumur migas
+;817040110;Proses Produksi Migas
+;817050100;Peralatan Produksi Atas dan Bawah Permukaan
+;817060100;Dasar-dasar Teknik Pemboran
+;817060101;Mendeskripsikan geologi dasar
+;817060102;Mendeskripsikan ilmu batuan & bahan galian
+;817060103;Mendeskripsikan konsep eksplorasi hidrokarbon
+;817060104;Memahami tentang geologi migas & fluida reservoir
+;817060105;Mendeskripsikan kegiatan pemboran migas
+;817060106;Melakukan pemboran
+;817060107;Mengoperasikan peralatan pemboran
+;817060108;Melakukan penyemenan casing
+;817060109;Mendeskripsikan lumpur & hidrolika lumpur
+;817060110;Mendeskripsikan semen pemboran
+;817060111;Mendeskripsikan permasalahan dalam pemboran
+;817070100;Teknik dan Peralatan Pemboran
+;817080100;Lumpur dan Hidrolika Lumpur Pemboran
+;817090100;Hambatan dalam Pemboran
+;817090200;Peralatan Pemboran
+;817090300;Teknik Pemboran
+;817100100;Teknik Instrumentasi Kilang
+;817110100;Proses Pengolahan Migas dan Petrokimia
+;817110101;Menjelaskan geologi dasar
+;817110102;Menjelaskan ilmu batuan & bahan galian
+;817110103;Menjelaskan konsep eksplorasi hidrokarbon
+;817110104;Menjelaskan kimia hidrokarbon & non-hirokarbon serta gas
+;817110105;Menjelaskan proses separasi, konversi, & treating
+;817110106;Menerapkan blending
+;817110107;Mendeskripsikan proses petrokimia
+;817110108;Menjelaskan tentang gas processing
+;817110109;Menjelaskan produk migas & petrokimia
+;817110110;Mengoperasikan peralatan proses migas
+;817110111;Mendeskripsikan storage and handling & sistem instrumentasi
+;817110112;Mendeskrip. sift fisika-kimia & listrik dlm pengolhn migas
+;817120100;Peralatan Proses dan Utilitas
+;817120110;Konstruksi dan Utilitas Gedung
+;817120200;Konstruksi Jalan dan Jembatan
+;817130100;Produk Migas dan Storage handling
+;817140100;Gas Processing
+;817150100;Paleontologi 
+;817150110;Keselamatan, Kesehatan Kerja, dan Lingkungan Hidu
+;817160100;Teknik Peledakan dan Pemboran
+;817170100;Preparasi Bahan Galian
+;817180100;Eksplorasi dan Teknik Penambangan
+;818010100;Pemetaan Topografi dan Pemetaan Geologi
+;818010200;Bahan Galian
+;818010300;Geologi Teknik
+;818010400;Geologi Terapan
+;818010500;Tambang Terapan
+;818010600;Teknik Eksplorasi dan Teknik Penambangan
+;818020100;Geoteknik
+;819010100;Analisis Titrimetri dan Gravimetri
+;819020100;Analisis Instrumen
+;819030100;Manajemen Laboratorium
+;819030110;Pengelolaan Laboratorium
+;819040100;Dasar Komputasi Proses dan Instrumen Kontrol
+;819050100;Pengelolaan Industri Kimia Skala Kecil
+;819050101;Melaksanakan pengelolaan bahan kimia
+;819050102;Mengoperasikan peralatan instrumentasi kimia
+;819050103;Membaca diagram alir proses produksi industri kimia
+;819050104;Menyiapkan bahan untuk proses produksi industri kimia
+;819050105;Melakukan proses industri kimia
+;819050106;Melakukan unit proses kimia
+;819050107;Melakukan operasi teknik kimia
+;819050108;Melaksanakan proses pengolahan limbah kimia
+;820010100;Teknologi dasar Otomotif
+;820020200;Pekerjaan dasar Teknik Otomotif
+;820030300;Teknik Listrik dasar Otomotif
+;820030400;Perawatan dan Perbaikan Motor Diesel Pembangkit
+;820030500;Perawatan Ketel Uap
+;820030600;Perawatan Turbin Gas
+;820030700;Sistem Kelistrikan dan Kontrol Elektronik
+;820040400;Pemeliharaan Mesin Kendaraan Ringan
+;820040401;Menerapkan dasar mesin & pembentukan logam
+;820040402;Menjelaskan proses-proses mesin konversi energi
+;820040403;Menginterpretasikan gambar teknik
+;820040404;Menerapkan prosedur kerja bangku
+;820040405;Menggunakan alat-alat ukur (measuring tools)
+;820040406;Memelihara & memperbaiki engine otomotif
+;820040407;Memelihara & memperbaiki pemindah tenaga
+;820040408;Memperbaiki sasis & suspensi
+;820040409;Memelihara & memperbaiki kelistrikan otomotif
+;820050500;Pemeliharaan Sasis & Pemindah TKR
+;820060600;Pemeliharaan Kelistrikan Kendaraan Ringan
+;820070100;Pemeliharaan Mesin Sepeda Motor
+;820070101;Menjelaskan dasar-dasar mesin
+;820070102;Melakukan perbaikan sistem hidrolik sepeda motor
+;820070103;Melakukan overhaul sistem pendingin sepeda motor 
+;820070104;Melakukan perbaikan sistem bahan bakar sepeda motor
+;820070105;Melakukan perbaikan sistem engine sepeda motor
+;820070106;Melakukan perbaikan sistm transmisi spd mtr manual&otomatis
+;820070107;Melakukan perbaikan sistem rem & suspensi sepeda motor
+;820070108;Melaksanakan pekerj. servis pd roda, ban & rantai spd motor
+;820070109;Melakukan pemeliharaan&perbaikan sistem kelistrikan spd mtr
+;820070200;Pemeliharaan Sasis Sepeda Motor
+;820070300;Pemeliharaan dan Kelistrikan Sepeda Motor
+;820070400;Pengelolaan Bengkel Sepeda Motor
+;820070500;Pemeliharaan Listrik Sepeda Motor
+;820080100;Kelistrikan Alat Berat
+;820080200;Kelistrikan dan Sistem Kontrol Alat Berat
+;820090100;Power Train dan Hidrolik Alat Berat
+;820090200;Hidrolik Alat Berat
+;820090300;Powertrain dan Undercarriage Alat Berat
+;820100100;Perawatan Engine dan Unit Alat Berat
+;820100101;Menggunakan peralatan & perlengkapan tangan di tempat kerja
+;820100102;Menggunakan service literatur
+;820100103;Menggunakan measuring tools & special tools
+;820100104;Menggunakan workshop equipment
+;820100105;Melaksanakan pekerjaan dasar listrik
+;820100106;Melaksanakan pekerjaan dasar komponen ototronik
+;820100107;Menggunakan dasar hydraulic & pneumatic system
+;820100108;Menggunakan hydraulic & pneumatic system
+;820100109;Melaksanakan pekerjaan dasar engine
+;820100110;Melaksanakan pekerjaan disel engine system
+;820100111;Melaksanakan pekerjaan dasar powertrain & undercarriage
+;820100200;Engine dan Unit Alat Berat
+;820110100;Perbaikan Panel-Panel Bodi
+;820110110;Perbaikan Panel Bodi
+;820120100;Pengecatan Bodi
+;820120200;Pengecatan Bodi Otomotif
+;820130100;Pemeliharaan Kaca, Assisories & Kelistrikan Bodi
+;820130200;Pemeliharaan dan Perbaikan Kelistrikan Bodi dan Assesories
+;820130300;Pemeliharaan dan Perbaikan Interior
+;820140100;Manajemen Perawatan Otomotif
+;820140200;Perawatan dan Perbaikan Kelistrikan Otomotif
+;820140300;Perawatan dan Perbaikan Mesin Otomotif
+;820140400;Perawatan dan Perbaikan Sasis, Pemindah Tenaga Otomotif
+;821010100;Konsep Dasar Perkapalan
+;821010200;Pekerjaan Dasar Teknik Perkapalan
+;821020100;Perlengkapan Kapal
+;821030100;Perawatan dan Perbaikan Kapal Baja
+;821030101;Menerapkan pekerjaan dasar kayu, alumunium, & fiberglass
+;821030102;Menggambar teknik pengelasan
+;821030103;Menerapkan teknologi las
+;821030104;Menerapkan kerja las SMAW & FCAW
+;821030105;Melakukan pengelasan non ferro proses TIG
+;821030106;Melakukan pengelasan baja proses SAW
+;821030107;Melakukan pekerjaan dengan las bahan khusus
+;821030108;Melakukan pemeriksaan & pengujian hasil pengelasan
+;821030109;Melakukan pengelasan pd perakitan konstruksi kapal
+;821040100;Teknologi Dasar Kelistrikan
+;821040200;Teknologi Dasar Teknik
+;821050100;Gambar Teknik Interior Kapal
+;821060100;Gambar Konstruksi Kapal Baja
+;821060101;Menggambar teknik
+;821060102;Menerapkan teknik dasar perkapalan
+;821060103;Melaksanakan pekerjaan dasar kayu, alumunium, & fiberglass
+;821060104;Mengidentifikasi bahan kapal baja
+;821060105;Mengoperasikan mesin kerja kayu portabel
+;821060106;Menggambar konstruksi bangunan kapal baja
+;821060107;Melakukan pemeliharaan&perbaikan kpl baja & perlengkapannya
+;821060108;Melaksanakan pembuatan & perakitan komponen kapal
+;821060109;Menggambar bukaan konstruksi kapal baja
+;821060110;Menerapakan teknologi pembangunan kapal baja
+;821060111;Menggambar dengan menggunakan komputer
+;821060120;Konstruksi Bangunan Kapal Baja
+;821060200;Gambar Bukaan Konstruksi Kapal Baja
+;821060300;Gambar Konstruksi Kapal dengna CAD
+;821060400;Gambar Konstruksi Kapal
+;821060401;Menggambar teknik dasar
+;821060402;Menerapkan konsep dasar perkapalan
+;821060403;Menerapkan kerja dasar logam, las, & listrik
+;821060404;Menguasai dasar desain grafis
+;821060405;Menggambar mesin
+;821060406;Menggambar ins. listrik
+;821060407;Menggambar konstruksi kayu
+;821060408;Menggambar konstruksi kapal
+;821060409;Menggambar sistem perpipaan kapal
+;821060410;Menggambar sistem propulsi
+;821060411;Menerapkan perencanaan pekerjaan dengan komputer
+;821060412;Merancang gambar dengan komputer
+;821060500;Gambar Obyek dengan Komputer
+;821060600;Gambar Konstruksi Interior Kapal
+;821060700;Gambar Sistem Pemesinan Kapal
+;821060701;Menerapkan gambar teknik mesin (GTM)
+;821060702;Melaksanakan pekerjaan mesin gergaji & gerinda
+;821060703;Melaksanakan pekerjaan pelat & pipa
+;821060704;Melaksanakan pekerjaan dengan mesin bubut, frais & fluida
+;821060705;Melaksanakan kerja penggerak kapal dgn mengg. mesin perkakas
+;821060706;Menerapkan kerja penggerak kapal dengan mesin sekrap
+;821060707;Menerapkan komponen pemesinan bantu kapal
+;821060708;Melakukan pekerjaan listrik dasar
+;821060800;Gambar Perlengkapan dan Sistem dalam Kapal
+;821060900;Gambar Konstruksi Kapal Fiberglass dengan CAD
+;821061000;Gambar Teknik Pengelasan
+;821061001;Menjelaskan dasar kekuatan bahan & komponen mesin
+;821061002;Menjelaskan dasar-dasar kelistrikan & teknik mesin
+;821061003;Membaca gambar teknik
+;821061004;Menggunakan perkakas tangan & perkakas bertenaga
+;821061005;Melakukan pekerjaan dengan mesin umum
+;821061006;Melakukan pengelasan dasar & penyolderan 
+;821061007;Mengelas dengan las Oksigen-Asetilen (Las Karbit)
+;821061008;Mengelas tingkat dsr dengan proses las MIG (GMAW)&TIG(GTAW)
+;821061009;Mengelas tingkat lanjut dengan las busur manual
+;821061010;Mengelas tingkat lanjut dengan las MIG (GMAW) & TIG (GTAW)
+;821061011;Mengoperasikan mesin-mesin las otomatis
+;821061012;Melakukan pemeriksaan & pengujian hasil las
+;821061300;Gambar dengan Perangkat lunak
+;821061400;Gambar Sistem Pemesinan dan Perlengkapan Kapal
+;821070100;Pembuatan dan Perakitan Komponen Kapal Baja
+;821080100;Desain Kapal Kayu
+;821080200;Konstruksi Kapal Kayu
+;821080201;Melakukan kerja bangku (logam, kayu, & fiberglass)
+;821080202;Melakukan gambar teknik perkapalan
+;821080203;Melakukan pembuatan komponen & konstruksi kapal non baja
+;821080204;Melakukan teknik pengerjaan kayu
+;821080205;Menggunakan perkakas kerja kayu
+;821080206;Melakukan pekerjaan laminasi fiberglass
+;821080207;Melakukan fabrikasi untuk aluminium
+;821080208;Menggunakan perkakas kerja aluminium
+;821080209;Melakukan dasar pengelasan GMAW/MIG & GTAW/TIG
+;821080210;Melaksanakan pekerjaan bengkel produksi
+;821080300;Pengoperasian Mesin Kerja Kayu
+;821080400;Pembuatan Kapal Kayu
+;821080500;Merawat Mesin Kerja Kayu
+;821090200;Pembuatan Komponen Konstruksi Kapal Fiberglass
+;821090300;Perakitan Konstruksi Kapal Fiberglass
+;821090310;Gambar Kapal Kayu dan Fiberglass
+;821090320;Konstruksi Bangunan Kapal Kayu dan Fiberglass
+;821090330;Pembuatan dan Perakitan Komponen Kapal Kayu dan Fiberglass
+;821090400;Pekerjaan Finishing Badan Kapal Fiberglass
+;821090500;Perawatan dan Perbaikan Kapal Fiberglass
+;821090600;Pekerjaan Mesin Perkakas
+;821090700;Pekerjaan Plat dan Pipa
+;821090710;Pekerjaan Pelat dan sistem pemipaan kapal
+;821090800;Elemen Mesin
+;821100100;Pekerjaan Mesin Fluida
+;821120300;Mesin Penggerak Kapal
+;821120310;Elemen mesin dan penggerak kapal
+;821130400;Pneumatik dan Hidrolik
+;821140500;Gambar Teknik Mesin
+;821150600;Pemrograman CNC
+;821170100;Teknik Las SMAW
+;821170200;Teknik Las FCAW
+;821170300;Teknik Las GTAW
+;821170400;Teknik Las SAW
+;821170500;Teknik Las Bangunan Kapal
+;821170600;Teknik Las FCAW dan GMAW
+;821170610;Teknik Las GTAW dan SAW
+;821170700;Teknik Listrik dan Pengukuran
+;821170800;Teknik Pendingin Dasar
+;821170900;Teknik Elektronika Kapal
+;821171000;Teknik Pendinginan dan Elektronika Kapal
+;821180100;Pemeriksaan dan Pengujian Hasil Las
+;821190100;Instalasi Listrik Kapal
+;821190200;Instalasi Penerangan dan Tenaga
+;821190300;Sistem Ketenagalistrikan Kapal
+;821190400;Sistem Kontrol Kelistrikan Kapal
+;821190500;Perawatan dan Perbaikan Peralatan Kelistrikan Kapal
+;821200100;Perawatan dan Perbaikan Mesin Listrik
+;821200200;Pengendali Mekanik Elektrik dan Elektronik
+;821200300;Pembuatan Perabot dan Elemen Bangunan Kapal
+;821200400;Pekerjaan Interior Kapal
+;821200401;Menerapkan kerja dasar logam, pengelasan & listrik
+;821200402;Menerapkan dasar desain grafis
+;821200403;Menggunakan mesin kerja kayu portable
+;821200404;Menggunakan mesin kayu stationer
+;821200405;Membuat perabot kayu
+;821200406;Membuat komponen konstruksi bangunan kapal
+;821200407;Melaksanakan pekerjaan interior kapal
+;821200408;Melaksanakan pekerjaan pelapisan permukaan
+;821200500;Pelapisan Permukaan
+;822010100;Teknik Kerja Bengkel
+;822010110;Kerja Bengkel
+;822020100;Teknik Listrik
+;822030100;Mekanika dan Elemen Mesin
+;822040100;Computer Aided Engineering (CAE)
+;822040110;Sistem Mekatronik Berbasis CAE
+;822050100;Robotik
+;822050110;Sistem Robotik
+;822060100;Teknik Perawatan dan Perbaikan Otomotif
+;822060101;Menjelaskan dasar-dasar kerja mesin
+;822060102;Menggunakan peralatan & perlengkapan di tempat kerja
+;822060103;Menentukan prosedur & harga perbaikan bodi otomotif
+;822060104;Memperbaiki panel-panel bodi otomotif
+;822060105;Memperb. pelind. Moulding. gmbr2 hiasan stiker lis & spoiler
+;822060106;Memasang & memperbaiki kaca kendaraan
+;822060107;Melakukan proses finishing perbaikan bodi otomotif
+;822060108;Melaksanakan pengecatan ulang bodi otomotif
+;822060109;Melaksanakan perbaikan kecil cat (spot repair) bodi otomotif
+;822060110;Melaksanakan perbaikan sistem kelistrikan bodi otomotif
+;822070101;Menerapkan dasar kelistrikan, elektronika, & teknik digital
+;822070102;Menerapkan besaran-besaran listrik rangkaian elektronika
+;822070103;Menerapkan konsep elektronika digital & rangkaian komputer
+;822070104;Menerapkan sistem mikroprosesor & mikrokontroller
+;822070105;Mengoperasikan aplikasi software pd komputer
+;822070106;Menerapkan komunikasi data sinyal digital antar peralatan
+;822070107;Merakit perangkat keras komputer
+;822070108;Menerpkn pengendali berbantuan mikropr mikrokontroller & PLC
+;822070109;Melakukan dasar-dasar pekerjaan bengkel elektronika
+;822070110;Merakit & memelihr peralatan pengendali &otomasi elektronika
+;822070111;Mengoperasikan rangkaian elekronika terapan & power supply
+;822070112;Menerapkn pengendli berbantu mikropros mikrokontroller & PLC
+;822070113;Melakukan dasar pekerjaan bengkel elektronika
+;822080100;Engine Manajemen System (EMS)
+;822080110;Perawatan dan Perbaikan Engine Management System dan Motor Listrik
+;822090100;Chasis Manajement System (CMS)
+;822090110;Perawatan dan Perbaikan Chasis Management System
+;822100100;Comfort Safety and Information Technology (CSIT)
+;822100110;Perawatan dan Perbaikan Comfort Safety dan IT
+;822110100;Vihicle Control System (VCS)
+;822110110;Perancangan Sistem Kontrol Kendaraan
+;822120100;Konversi Energi
+;822130100;Dasar-dasar Energi Terbarukan
+;822140200;Pengelolaan PLTMH
+;822140300;Konstruksi Sipil PLTMH
+;822140400;Teknik Konversi dan Konservasi Energi
+;822160100;Pemasangan PLTMH
+;822170100;Turbin Air dan Kelengkapan Mekanik
+;822170500;Teknik Pengendali Daya
+;822180100;Sistem Kontrol dan Kelistrikan PLTMH
+;822190200;Teknik Energi Hibrid
+;822190300;Teknik Energi Hidro
+;822190400;Teknik Energi Surya
+;822190500;Teknik Energi Angin
+;822200100;Pemasangan dan Pemeliharaan PLTS
+;822210100;Aplikasi PLTS
+;823010100;Pemanas Energi Surya
+;823010200;Sistem Kontrol dan Instalasi Kelistrikan PLTS
+;823020100;Teknologi PLTB
+;823030100;Biogas
+;823030200;Teknologi Biogas
+;823040100;Pembangkit Listrik Tenaga Biomassa
+;823040101;Mengoperasikan sistem pembangkit
+;823040102;Melakukan pengaturan tegangan, frekuensi, & beban pembangkit
+;823040103;Menanggulangi gangguan operasional pembangkit
+;823040104;Mengoperasikan PLC & SCADA
+;823040105;Menerapkan penggunaan baterai & instrumen kontrol
+;823040106;Memasang proteksi pembangkit
+;823040107;Menguji switch gear, DC power & rectifier, & unit generator
+;823040108;Memasang proteksi, kontrol relay& kontrol PLC/SCADA
+;823040109;Memasang panel & unit pembangkit
+;823050100;Bahan Bakar Nabati
+;823060100;Teknologi Gasifikasi Biomassa
+;823060200;Teknologi Gasifikasi
+;823170600;Teknik Kontrol
+;823170610;Teknik Kontrol Sistem Mekatronik
+;824020200;Teknik Catu Daya
+;824040400;Skenario
+;824050500;Produksi Acara
+;824050600;Kamera dan Pencahayaan
+;824050700;Manajemen Produksi
+;824050800;Penulisan Naskah
+;824050900;Penyutradaraan
+;824051000;Sejarah Film 
+;824051100;Seni Film
+;824051200;Produksi Film
+;824051300;Sinematografi Dasar     
+;824051400;Tata Kamera
+;824051500;Visual Effect
+;824060100;Program Siaran Artistik
+;824060200;Program Siaran Jurnalistik
+;824060300;Siaran Online
+;824060400;Kamera, Pencahayaan dan Tata Suara
+;824060500;Manajemen Produksi, Naskah dan Penyutradaraan
+;824060600;Manajemen Siaran Radio
+;825010100;Dasar-dasar Budidaya Tanaman
+;825010200;Alat Mesin Pertanian
+;825010201;Menjelaskan bahan logam & non logam. 
+;825010202;Menjelaskan sifat-sifat fisik tanah.
+;825010203;Mengoperasikan & merawat alat & mesin perbengkelan pertanian
+;825010204;Mengoper. & merwt mtr tenaga penggerak alt mesin pertanian
+;825010205;Mengoperasikan & merawat traktor pertanian roda 2 & roda4
+;825010206;Mengoperasikan alat mesin:pengolah tanah,pennm,& pemelihraan
+;825010207;Mengoperasikan alat mesin: pemanenan & pengangkut srna prod.
+;825010208;Mengopersikn alt mesin pertnian psca panen & pengolhn hasil 
+;825010209;Melaksanakan pengukuran lahan 
+;825010210;Mengelola unit tata guna lahan & lahan pertanian.
+;825010211;Membuat jaringan irigasi & drainase serta mengoperasikannya
+;825010220;Pengoperasian Dasar-Dasar Perbengkelan Pertanian
+;825010300;Pembiakan Tanaman
+;825010400;Penyuluhan Pertanian
+;825010401;Mengelola bisnis tanaman pangan & hortikultura
+;825010402;Mengelola bisnis tanaman perkebunan
+;825010403;Mengelola bisnis peternakan
+;825010404;Mengelola bisnis perikanan budidaya
+;825010405;Membuat profil potensi wilayah desa
+;825010406;Menyusun rencana definitif kelompok (RDK)
+;825010407;Menyusun programa penyuluhan pertanian
+;825010408;Menyusun rencana kerja & bahan penyuluhan pertanian
+;825010409;Melaksanakan kegiatan penyuluhan pertanian
+;825010410;Melaksanakan evaluasi kegiatan penyuluhan pertanian
+;825010411;Menumbuhkembangkan kelembagaan kelompok tani 
+;825020100;Agribisnis Tanaman Pangan dan Palawija
+;825020101;Menyiapkan lahan pertanian
+;825020102;Membibitkan tanaman pangan & hortikultura
+;825020103;Menanam & mengatur pola tanam tanaman pangan & hortikultura
+;825020104;Memupuk tanaman pangan & hortikultura
+;825020105;Mengairi tanaman pangan & hortikultura
+;825020106;Mengendalikn organism pengganggu tnmn pngan & hortikultura
+;825020107;Mengatur/memberikan perlakuan pd tanmn pangan & hortikultura
+;825020108;Melaksanakan panen tanaman pangan & hortikultura
+;825020109;Membuat pupuk organik
+;825020110;Membudidayakan tanaman secara hidroponik
+;825020111;Mengelola usaha tanaman pangan & hortikultura
+;825020200;Agribisnis Tanaman Sayuran
+;825020300;Agribisnis Tanaman Buah
+;825020400;Agribisnis Tanaman Hias
+;825020500;Agribisnis Tanaman Perkebunan Tahunan
+;825020501;Menentukan komoditas tanaman perkebunan
+;825020502;Mengoperasikan & merawat alat & mesin pertanian
+;825020503;Menyiapkan lahan produksi tanaman perkebunan
+;825020504;Membibitkan tanaman perkebunan
+;825020505;Menanam tanaman perkebunan
+;825020506;Mengendalikan organisme pengganggu tanaman (OPT)
+;825020507;Memelihara kesuburan tanah
+;825020508;Mengatur/memberikan perlakuan pd tanaman perkebunan
+;825020509;Melakukan sensus tanaman produksi
+;825020510;Memanen & mengangkut hasil tanaman perkebunan
+;825020511;Mengelola pekerjaan kebun
+;825020512;Mengelola usaha tanaman perkebunan
+;825020520;Produksi Tanaman Perkebunan Tahunan
+;825020600;Agribisnis Tanaman Perkebunan Semusin
+;825020610;Produksi Tanaman Perkebunan Semusim
+;825020700;Agribisnis Tanaman Herbal/Atsiri
+;825020800;Agribisnis Tanaman Pangan
+;825020900;Panen dan pasca Panen Tanaman perkebunan
+;825021000;Pembibitan dan Kultur Jaringan Tanaman perkebunan
+;825021100;Pemeliharaan dan Pengelolaan Tanaman perkebunan
+;825021200;Persiapan lahan dan penanaman tanaman perkebunan
+;825021300;Manajemen Perkebunan
+;825021400;Fisiologi Tumbuhan
+;825022100;Produksi Komoditas Perkebunan, dan Herbal
+;825030200;Pengantar Desain Taman
+;825030300;Perawatan Taman
+;825030400;Tanaman Pertanaman
+;825030500;Pembentukan Tapak
+;825040200;Produksi Bibit dan kultur Jaringan
+;825040201;Menyiapkan lahan & media semai serta merawat pohon induk.
+;825040202;Melakukan uji mutu & mensertifikasi benih tanaman.
+;825040203;Melaksanakan berbagai teknik pembiakan
+;825040204;Melaksanakan pemeliharaan tanaman
+;825040205;Membiakkan tanaman dengan teknik kultur jaringan
+;825040206;Mengemas & mentransformasi bibit tanaman
+;825040300;Pembibitan dan Kultur Jaringan Tanaman
+;825050100;Agribisnis Ekologi
+;825050200;Agribisnis Pupuk dan Pestisida Organik /Hayati
+;825050300;Pengujian Mutu Benih
+;825050400;Agribisnis Perbenihan Tanaman
+;825050500;Manajemen Pertanian
+;825050600;Pemuliaan Tanaman
+;825050700;Produksi, Pengolahan. Dan Pemasaran Benih Tanaman
+;825050800;Agribisnis Pembibitan dan Kultur Jaringan Tanaman
+;825060100;Dasar-dasar Pemeliharaan Ternak
+;825060200;Dasar-dasar Pakan Ternak
+;825060300;Dasar-dasar Kesehatan Ternak
+;825060301;Melakukan pemeriksaan klinis ternak
+;825060302;Melakukan pemeriksaan secara laboratorium kesehatan ternak
+;825060303;Melakukan pemeriksaan post mortem kesehatan ternak
+;825060304;Memberikan pengobatan & vaksin ternak
+;825060305;Mendeskripsikan gejala penyakit ternak
+;825060306;Melakukan pencegahan penyakit ternak
+;825060307;Melakukan pemeriksaan higiene produk asal ternak
+;825060308;Melakukan inseminasi buatan untuk ternak
+;825060309;Melakukan pemeriksaan kebuntingan ternak
+;825060310;Menolong kelahiran ternak
+;825060311;Melakukan penanganan hewan kesayangan
+;825060400;Dasar-dasar Pembibitan Ternak
+;825060500;Agribisnis Ternak Ruminansia Pedaging
+;825060600;Agribisnis Ternak Ruminansia Perah
+;825060700;Agribisnis Pakan Ternak Ruminansia
+;825060800;Agribisnis Pembibitan Ternak Ruminansia
+;825060801;Mengidentifikasi kan&g ternak & peralatan
+;825060802;Menyeleksi bibit ternak ruminansia
+;825060803;Memproduksi hijauan pakan ternak ruminansia
+;825060804;Membuat ransum ternak ruminansia
+;825060805;Melakukan penanganan ternak ruminansia
+;825060806;Memeliharan bibit ternak ruminansia
+;825060807;Menangani penggemukan ternak ruminansia
+;825060808;Menangani reproduksi ternak ruminansia
+;825060809;Memelihara ternak laktasi
+;825060810;Mengelola pasca panen ternak ruminansia
+;825060811;Melakukan penanganan & pemanfaatan limbah ternak
+;825060812;Mengelola usaha ternak ruminansia
+;825060900;Agribisnis Ternak Unggas Pedaging
+;825061000;Agribisnis Ternak Unggas Petelur
+;825061100;Agribisnis Pakan Ternak Unggas
+;825061200;Agribisnis Pembibitan Ternak Unggas
+;825061300;Agribisnis Aneka Ternak Unggas Produksi 
+;825061301;Merancang kan&g ternak unggas & peralatan
+;825061302;Mengoperasikan peralatan agribisnis ternak unggas
+;825061303;Melakukan pemeliharaan unggas petelur
+;825061304;Melakukan pemeliharaan unggas pedaging
+;825061305;Membuat ransum ternak unggas
+;825061306;Menangani kesehatan ternak unggas
+;825061307;Melakukan penetasan telur
+;825061308;Memelihara induk ternak unggas
+;825061309;Melakukan penanganan pasca panen ternak unggas
+;825061310;Melakukan penanganan & pemanfaatan limbah ternak unggas
+;825061311;Menyusun proposal usaha
+;825061400;Agribisnis Aneka Ternak Serangga
+;825061500;Agribisnis Aneka Ternak Monogastrik
+;825061600;Agribisnis Aneka Hewan Kesayangan
+;825062000;Agribisnis Aneka Ternak
+;825062100;Dasar-dasar Peternakan
+;825062101;Menjelaskan dasar-dasar budidaya aneka ternak
+;825062102;Memelihara aneka ternak
+;825062103;Melakukan pencegahan penyakit ternak & merawat ternak sakit
+;825062104;Melakukan pemanenan hasil budidaya aneka ternak
+;825062105;Membuat & mengawetkan pakan ternak
+;825062106;Merancang kan&g ternak & peralatan
+;825062107;Mengelola usaha aneka ternak
+;825062108;Mengolah limbah aneka ternak
+;825062109;Membibitkan aneka ternak
+;825062110;Menjelaskan sistem organ tubuh aneka ternak
+;825062200;Anatomi Hewan
+;825062300;Fisiologi Hewan
+;825062400;Reproduksi Hewan
+;825062500;Anatomi dan Fisiologi Hewan
+;825062600;Dasar-dasar Mikrobiologi dan Parasitologi
+;825063100;Industri Aneka Ternak
+;825063200;Industri Pakan Ternak
+;825063300;Industri Pembibitan Ternak
+;825063400;Industri Ternak Pedaging
+;825063500;Industri Ternak Ruminansia Perah
+;825063600;Industri Ternak Unggas Petelur
+;825070100;Sumber Tenaga Penggerak Alat Mesin Pertanian
+;825070110;Sumber Tenaga Penggerak dan Klimatologi
+;825080100;Ilmu Bahan Teknik
+;825090100;Traktor Pertanian
+;825100100;Alat Mesin Budidaya Pertanian
+;825100200;Teknologi Otomatisasi Alat Mesin Budidaya
+;825100300;Teknologi Otomatisasi Alat Mesin Panen dan Pascapanen
+;825100400;Teknologi Otomatisasi Alat Mesin Pemeliharaan
+;825100500;Teknologi Otomatisasi Alat Mesin Pengolahan Hasil Pertanian
+;825110100;Alat Mesin Pasca Panen
+;825110110;Workshop Alat Mesin Pertanian
+;825110200;Teknik Penanganan Pasca Panen
+;825120100;Perawatan dan Perbaikan Alat Mesin Pertanian
+;825130100;Pemetaan Lahan Pertanian
+;825130200;Pengukuran dan Pemetaan Lahan Pertanian
+;825130300;Pemetaan lahan
+;825140100;Irigasi dan Drainase
+;825150100;Pengelolaan Tanah Pertanian
+;825160100;Pengolahan Hsl Samping Prod Perikanan & Rmpt Laut
+;825160110;Dsr Teknik Pnangkpn Ikan & Pnympnan Hsl Tngkp
+;825170100;Klinik Hewan
+;825180100;Pemeriksaan Laboratorium
+;825190100;Obat dan Vaksin
+;825200100;Kesehatan masyarakat Veteriner
+;825210100;Penanganan Bahan Hasil Pertanian dan Perikanan
+;825210101;Menerapkan keselmtan, kesehtn kerja & lingkungan hdp (K3LH)
+;825210102;Menangani hsl pertanian sesuai good manufacturing process
+;825210103;Mengelola peralatan pengawasan mutu
+;825210104;Menerapkan prinsip kerja laboratorium yang baik (GLP)
+;825210105;Membuat & menstandarisasi larutan pereaksi
+;825210106;Mengambil contoh hasil pertanian
+;825210107;Menganalisis bahan hasil pertanian secara organoleptik
+;825210108;Menganlisis secara fisik bhn hasil pertanian & bahan kemasan
+;825210109;Menganalisis proksimat bahan hasil pertanian
+;825210110;Menganalisis secara kimia bahan & produk hasil pertanian
+;825210111;Menganalisis mutu air & limbah cair
+;825210112;Menganalisis secara mikrobiologis bahan & produk pertanian
+;825210113;Menguji mutu bahan & produk pertanian sesuai standar
+;825210121;Mengenal komoditas hasil pertanian
+;825210122;Menerapkan dasar lingkungan industri hasil pertanian
+;825210123;Melaksanakan dasar-dasar pengawetan bahan hasil pertanian
+;825210124;Melaksanakan dasar-dasar pengendalian mutu hasil pertanian
+;825210125;Menerapkan teknik satuan operasi pengolhn hasil pertanian
+;825210126;Melaksanakan proses pengolahan dengan fermentasi
+;825210127;Melaksanakan proses pengolahan hasil pertanian
+;825210128;Mengemas bahan hasil pertanian & produk olahan
+;825210129;Menyimpan & menggudangkan bahan hasil pert& hasil olahannya
+;825210130;Menerapkan sanitasi industri pengolahan hasil pertanian
+;825210131;Mengelola usaha pengolahan hasil pertanian
+;825210132;Menjelaskan komoditi hasil perikanan
+;825210133;Mengoperasikan alat & mesin pengolahan hasil perikanan
+;825210134;Menangani produk dengan refrigrasi
+;825210135;Menerapkan GMP, sanitasi, & keamanan pangan
+;825210136;Mengolah produk perikanan secara tradisional
+;825210137;Melakukan pengalengan hasil perikanan
+;825210138;Mengolah hasil perikanan untuk ekspor
+;825210139;Melakukan pengemasan & penyimpanan produk hasil perikanan
+;825210140;Melakukan pengendalian mutu hasil perikanan
+;825210141;Membuat diversifikasi produk hasil perikanan
+;825210142;Menerapkan program manajemen mutu terpadu
+;825210151;Mengidentfkasi param. kualitas & kuant. air srta potensi lhn
+;825210152;Menyiapkan wadah & media budidaya ikan
+;825210153;Membudidayakan pakan alami
+;825210154;Memproduksi pakan ikan buatan
+;825210155;Mengendalikan hama & penyakit ikan
+;825210156;Mengelola induk ikan
+;825210157;Memijahkan ikan
+;825210158;Merawat telur & larva
+;825210159;Melakukan pendederan
+;825210160;Melakukan pembesaran ikan
+;825210161;Mengestimasi hasil produksi & memanen hasil budidaya ikan
+;825210200;Dasar Proses Pengolahan Hsl Pertanian & Perikanan
+;825210300;Dasar Pengendalian Mutu Hsl Pertanian & Perikanan
+;825210400;Dasar Penanganan dan Proses Pengolahan hasil Perikanan
+;825210500;Dasar Pengendalian Mutu Hasil Perikanan
+;825210600;Teknik Pembesaran Komoditas Air Payau dan Laut
+;825210700;Teknik Pendederan Komoditas Air Payau dan Laut
+;825210800;Teknik Pengembangbiakan Komoditas Air Payau dan Laut
+;825220100;Keamanan Pangan
+;825220200;Keamanan Pangan dan Sistem Jaminan Mutu (Quality Sistem)
+;825220300;Keamanan Pangan, Penyimpanan, dan Penggudangan
+;825220400;Penanganan Pasca Panen,Pengolahan Hasil dan Penyimpanan Produk Pertanian Organik
+;825220500;Produksi Pengolahan Komoditas Perkebunan dan Herbal
+;825230100;Produksi Hasil Nabati
+;825230110;Produksi Pengolahan Hasil Nabati
+;825230200;Produksi Hasil Hewani
+;825230210;Produksi Pengolahan Hasil Hewani
+;825230300;Produksi Hasil Perkebunan
+;825230400;Produksi Makanan dan Minuman Herbal
+;825230500;Dasar-dasar Otomatisasi Teknologi Pertanian
+;825240100;Pengolahan Hasil Perikanan Tradisional
+;825240110;Produksi Hasil Perikanan secara Tradisional
+;825240200;Pengolahan Diversifikasi Hasil Perikanan
+;825240210;Produksi Olahan Diversifikasi Hasil Perikanan
+;825240300;Pengolahan Hasil Perikanan Standar Eksport
+;825240310;Produksi Olahan Ekspor Hasil Perikanan
+;825240400;Produksi Olahan Rumput Laut dan Hasil Samping Perikanan
+;825250100;Dasar Analisis Fisikokimia
+;825250101;Melakukan pengelolaan bahan kimia
+;825250102;Melakukan dasar-dasar pekerjaan analisis kimia
+;825250103;Menerapkan good laboratory practice
+;825250104;Melakukan analisis kimia konvensional & non instrumental 
+;825250105;Melak. analisis kimia scr spektro., el.kimia & kromatografi
+;825250106;Melakukan verifikasi alat ukur primer & sekunder
+;825250107;Melakukan analisis proksimat
+;825250108;Melakukan analisis parameter lingkungan
+;825250109;Melakukan analisis secara mikrobiologis
+;825250110;Melakukan analisis parameter lingkungan
+;825250200;Pengujian Secara Kimia, dan Instumental
+;825250300;Dekorasi Akuarium/Aquascape/Paludarium
+;825250400;Teknik Panen, Penanganan Pasca Panen dan Pemasaran Ikan Hias
+;825250500;Teknik Pembesaran Komoditas Ikan Hias
+;825250600;Teknik Pendederan Komoditas Ikan Hias
+;825250700;Teknik Pengembangbiakan Komoditas Ikan Hias
+;825260100;Teknik Pengambilan Contoh
+;825270100;Pengujian Mutu Pangan
+;825270200;Pengujian Mutu NonPangan & Limbah Industri PHPP
+;825270300;Manajemen Pengendalian Mutu HPP
+;825270400;Keamanan Pangan dan Sistem Managemen Mutu Pangan
+;825270500;Pengambilan Contoh, Pengujian Organoleptik, dan Pengujian Fisik - Mekanis
+;825270600;Pengujian Secara Mikrobiologis
+;825270700;Pengujian Mutu Pangan, Non Pangan, Air, dan Limbah Industri Pertanian
+;825280100;Dasar Penanganan Bahan Hasil Pertanian
+;825280200;Dasar Pengendalian Mutu Hasil pertanian
+;825280300;Dasar Proses Pengolahan Hasil Pertanian
+;826010100;Silvika
+;826010200;Silvikultur
+;826020100;Ilmu Ukur Kayu
+;826030200;Pengkuran dan Pemetaan Hutan
+;826040300;Dendrologi
+;826050400;Penyuluhan Kehutanan
+;826050401;Mengidentifikasi tipe-tipe hutan & jenis pohon
+;826050402;Menjelaskan Hukum & Perun&g-un&gan Kehutanan
+;826050403;Menjelaskan tipe iklim & jenis tanah hutan
+;826050404;Menerapkan teknik perencanaan hutan 
+;826050405;Melakukan pengelolaan hutan
+;826050406;Mengidentifikasi pemanfaatan jasa lingk. & wisata kehutanan
+;826050407;Menerapkan teknik konservasi tanah & air
+;826050408;Mengidentifikasi hutan rakyat
+;826050409;Mengidentifikasi flora fauna yang dilindungi
+;826050410;Melakukan pemanenan hasil hutan
+;826050500;Pembinaan Hutan
+;826050700;Pengukuran Hutan
+;826050800;Perlindungan Hutan
+;826060500;Inventarisasi Hutan
+;826060510;Inventarisasi Pada Hutan Produksi Sebelum Penebangan
+;826060520;Inventarisasi Pada Hutan Produksi Setelah Penebangan
+;826060600;Garap Tari
+;826070100;Pengukuran dan Pemetaan Digital
+;826080100;Inventarisasi Keanekaragaman Hayati
+;826090100;Pembinaan Habitat dan Populasi
+;826100100;Ekowisata
+;826107100;Pembukaan Wilayah Hutan Produksi
+;826110100;Teknik Konservasi Tanah dan Air
+;826120100;Teknik Rehabilitasi dan Reklamasi
+;826130100;Teknik Agroforestry
+;826140100;Inventarisasi Hutan Produksi
+;826150100;Pemanenan Hasil Hutan
+;826150110;Pemanenan Hasil Hutan Produksi
+;826160100;Pengujian Kayu Bulat
+;826160200;Pengujian Kayu Gergajian
+;827010101;Menerapkan hukum laut & manaj. operasional kpl penangkp ikan
+;827010102;Menerapkan tata laksana perikanan yang bertanggungjawab
+;827010103;Menerapkan penanganan & penyimpanan hasil penangkapan ikan
+;827010104;Menerpkn dinas jga deck/P2TL & isyrt visual/komuniksi di kpl
+;827010105;Menerapkan perawatan alat tangkap & metoda penangkapan
+;827010106;Menerapkan bhs inggris pelayaran & bhs inggris perikanan
+;827010107;Menerapkan olah gerak kapal & pengendalian kapal perikanan
+;827010108;Menerapkan perncanan pelyrn, pelayrn datar & pelayrn astron.
+;827010109;Menjelaskan dasar-dasar elektronika & permesinan kapal
+;827010110;Menerapkan oseanografi perikanan & meteorologi
+;827010111;Menjelaskan bangunan kapal & stabilitas kapal
+;827010112;Menerapkan penanganan hasil tangkap
+;827010113;Menerapkan teknik penangkapan & tatalaksana perikanan 
+;827010114;Mengoperasikan & merawat mesin penggerak utama & mesin bantu
+;827010115;Mengoperasikan & merawat mesin pendingin & alat tangkap
+;827010116;Mengops & merawat sstm kendali otomat. & kelistrikan kapal
+;827020100;Bangunan Stabilitas Kapal Perikanan (BSKP)
+;827020200;Bangunan dan Stabilitas Kapal Penangkap Ikan
+;827040100;Dasar-dasar Keselamatan di Laut (DKL)
+;827040200;Prosedur Darurat dan SAR (Emergency Procedure and SAR)
+;827050100;Bahasa Inggris Maritim dan Perikanan (BIMP)
+;827050110;Bahasa Inggris Maritim
+;827060100;Pelayaran Kapal Perikanan (PKP)
+;827060200;Bahan dan alat tangkap
+;827060300;Ilmu Pelayaran Datar
+;827060400;Kompas Magnet dan Kompas Gasing
+;827060500;Manajemen Kapal Perikanan
+;827060600;Meteorologi dan Oseanografi
+;827060700;Navigasi Radar dan Elektronik
+;827060800;Olah Gerak dan Pengendalian Kapal Penangkap Ikan
+;827080100;Manajemen Kapal Perikanan (MKP)
+;827080200;Prosedur Darurat
+;827080300;Tata laksana perikanan yang bertanggung jawab (CCRF)
+;827080400;Perencanaan Pelayaran
+;827090100;Teknik dan alat Penangkap Ikan (TAPI)
+;827090110;Bahan dan Alat Tangkap Penangkap Ikan
+;827090200;Teknik Penangkapan ikan, Penanganan, dan Penyimpanan Hasil Tangkapan
+;827110100;Pesawat Bantu Kapal Perikanan (PBKP)
+;827110110;Pesawat Bantu Kapal Penangkap Ikan
+;827110200;Motor Diesel dan Instalasi Tenaga Kapal Perikanan
+;827110300;Kelistrikan, Sis Pngndlian & Otmtsasi Kpl Perikann
+;827110301;Mengidentifikasi bahan kapal kayu
+;827110302;Menerapkan pengoperasian mesin kerja kayu portabel
+;827110303;Melakukan percobaan me& listrik tegangan AC
+;827110304;Melaksanakan pekerjaan ins. listrik penerangan & tenaga
+;827110305;Melaksanakan pekerjaan teknik pendingin
+;827110306;Menerapkan komponen rangkaian elektronik
+;827110307;Membuat ins. listrik kapal/industri
+;827110308;Memperbaiki mesin listrik
+;827110309;Menggunakan pengendali elektromagnet & elektronika
+;827110310;Listrik Kapal Penangkap Ikan
+;827110320;Motor Diesel Kapal Penangkap Ikan
+;827110330;Perawatan dan Perbaikan Mesin Kapal Penangkap Ikan
+;827110340;Ilmu Bahan, Bahan Bakar, dan Pelumas
+;827110350;Sistem Pengendalian dan Otomatisasi
+;827130100;Mesin Pendingin Kapal Perikanan (MPKP)
+;827130110;Mesin Pendingin
+;827130200;Permesinan Kapal Penangkap Ikan
+;827140100;Dasar-dasar Budidaya Perairan
+;827140200;Dasar Dasar Budidaya Perikanan
+;827150100;Pengelolaan Kualitas Air
+;827150200;Kualitas Air dan Hama Penyakit
+;827160100;Kesehatan Biota Air
+;827170100;Produksi Pakan Alami
+;827170200;Produksi Pakan Alami dan Buatan
+;827180100;Produksi Pakan Buatan
+;827190100;Teknik Pembenihan Ikan
+;827190110;Teknik Pendederan Komoditas Perikanan Air Tawar
+;827190120;Teknik Pengembangbiakan Komoditas Perikanan Air Tawar
+;827200100;Teknik Pembesaran Ikan
+;827200110;Teknik Pembesaran Komoditas Perikanan Air Tawar
+;827210100;Teknik Pemanenan Ikan dan Pasca Panen
+;827210200;Budidaya Perikanan Laut
+;827210300;Penanganan Hasil Perikanan Laut
+;827210400;Pengembangbiakan Komoditas Perikanan Laut
+;827210500;Pengendalian Mutu Hasil Industri Perikanan Laut
+;827210600;Pengolahan Hasil Perikanan
+;827220100;Teknik Pembenihan Krustasea
+;827230100;Teknik Pembesaran Krustasea
+;827240100;Teknik Pemanenan Krustasea dan Pasca Panen
+;827250100;Teknik Pembenihan Kekerangan
+;827260100;Teknik Pembesaran Kekerangan
+;827270100;Teknik Pemanenan Kekerangan dan Pasca Panen
+;827280101;Menjelaskan potensi agribisnis rumput laut
+;827280102;Menjelaskan biologi pertumbuhan rumput laut
+;827280103;Mengidentifikasi parameter kualitas air
+;827280104;Menjelaskan teknik budidaya rumput laut
+;827280105;Menentukan lokasi budidaya
+;827280106;Menanggulangi hama & penyakit rumput laut
+;827280107;Melaks. pembibitan tek. demplot (lumbung) bibit rumput laut
+;827280108;Melaksanakan budidaya rumput laut secara terpadu
+;827280109;Melaksanakan pengolahan rumput laut pasca panen
+;827280110;Menguji kualitas rumput laut kering
+;827280111;Melakukan pengembangan pasca panen rumput laut
+;827290200;Teknik Penanaman Rumput Laut
+;827290300;Teknik Pembibitan Rumput Laut
+;827290400;Teknik Pemanenan dan Pasca Panen Rumput Laut
+;827290500;Teknik Pengolahan Rumput Laut
+;827300100;Teknik Pemanenan Rumput Laut dan Pasca Panen
+;827310100;Hukum Maritim (HM)
+;827310200;Hukum Maritim dan Peraturan Perikanan
+;827311100;Pencegahan Pencemaran Lingkungan Laut (MPP include Environment Awareness)
+;827320100;Bangunan dan Stabilitas Kapal Niaga (BSKN)
+;827320110;Konstruksi dan Stabilitas Kapal (Ship Construction and Stability)
+;827330100;Dasar-dasar Penanganan Pengaturan Muatan (DPPM)
+;827340100;Bahasa Inggris Maritim
+;827350100;Pelayaran Kapal Niaga (PKN)
+;827350101;Menerapkan hukum laut
+;827350102;Menerapkan ilmu pelayaran datar
+;827350103;Menerapkan bahasa inggris maritim
+;827350104;Menerapkan meteorologi & oseanografi
+;827350105;Menerapkan bangunan & stabilitas kapal
+;827350106;Menerapkan dasar-dasar keselamatan di laut
+;827350107;Menerapkan penanganan & peraturan muatan
+;827350108;Menjelaskan dasar-dasar elektronik & permesinan kapal
+;827350109;Mengoperasikan peralatan navigasi konvensional & elektronik
+;827350110;Menerapkan olah gerak kapal & sistem kontrol kemudi otomatis
+;827350111;Menerapkn dinas jaga di deck, P2TL&isyarat visual/komunikasi
+;827350200;Ilmu Pelayaran Datar (Terrestrial Navigation)
+;827350300;Kecakapan Bahari (Seaman Ship)
+;827350400;Meteorologi (Meteorology)
+;827350500;Olah Gerak dan Pengendalian Kapal (Ship Manoeuvering and Handling)
+;827350600;P2TL dan Dinas Jaga (Col Reg & Watchk.Include Introduc. to BRM & Sec. Awareness)
+;827350700;Pelayaran Astronomi (Celestial Navigation)
+;827350800;Perawatan Kapal (Ship Maintenance)
+;827350900;Perlengkapan Kapal (Deck and Machinery Equipment)
+;827351000;Permesinan Kapal (Ship Machinery)
+;827351100;Sistem Kemudi Kompas (Compasses and Steering System)
+;827351200;Sistem Navigasi Elektronik (Electronic Navigation System)
+;827360100;Komunikasi Kapal Niaga (KKN)
+;827360200;Komunikasi dan Isyarat (Isyarat &Communication)
+;827370100;Dinas Jaga/P2TL Kapal Niaga (DJKN)
+;827370200;Komunikasi dan Dinas Jaga/P2TL Kapal Perikanan
+;827370210;Dinas Jaga
+;827370220;Dinas Jaga / P2TL
+;827370230;Dinas Jaga Mesin dan Kepedulian Keamanan (Watch keeping andS ecurity Awareness)
+;827370300;Dinas Jaga Pemesinan Kapal Niaga
+;827370500;Komunikasi
+;827380100;Penanganan dan Pengaturan Muatan (PPM)
+;827380101;Mengerjakan pengurusan dokumen kapal masuk pelabuhan
+;827380102;Mengerjakan pengurusan dokumen kapal keluar pelabuhan
+;827380103;Mengerjakan bongkar muat di petikemas di terminal petikemas
+;827380104;Melaksanakan bongkar muat barang curah & pdt di pelabuhan
+;827380105;Melaksanakan peng brg dari gudang ke samping kapal di pelab.
+;827380106;Menghitung jasa labuh & tambat kapal
+;827380107;Menghitung jasa penumpkn brg di terminal petikemas & gudang
+;827380108;Mengerjakan adm keuangan & pembukuan di perusahaan pelayaran
+;827380109;Mempersiapkan perbekalan yang diperlukan selama berlayar
+;827380110;Menger.pengurusan pengiri. brg . melalui fas. EDI Bea Cukai
+;827380200;Penanganan dan Pengaturan Muatan (CHS include CSI/Inspection & Reporting)
+;827390100;Mtr Diesel & Instalasi Tenaga Kapal Niaga (MDITKN)
+;827390200;Kelistrikan, Sis Pngndlian & Otmtsasi Kpl Niaga
+;827390201;Mengoperasikan&merawat mesin penggerak utama, pesawat bantu
+;827390202;Menerapkan dasar-dasar keselamatan kerja di laut
+;827390203;Menerapkan bahan teknik & dasar gambar teknik
+;827390204;Menerapkan kerja bengkel
+;827390205;Menerapkan dinas jaga di atas kapal
+;827390206;Mengoperasikan & merawat sistm kntrl & sistm kelistrikan kpl
+;827390207;Menerapkan komunikasi maritim internasional
+;827390208;Menerapkan dasar-dasar kenautikaan
+;827390300;Desain dan Gambar Permesinan Kapal (Marine Engineering Drawing and Design)
+;827390400;Elektronika (Electronics)
+;827390500;Ilmu Bahan (Fabrication and Repair Material)
+;827390600;Mesin Penggerak Utama (Main Propulsion Engine)
+;827390700;Penggunaan Peralatan Kerja Manual dan Bertenaga (Use of Hand and Powertools)
+;827390800;Perawatan dan Perbaikan Permesinan Kapal 
+;827390900;Permesinan Bantu (Auxiliary Machinery)
+;827391000;Sistem Kelistrikan Kapal (Marine Electrical System)
+;827391100;Sistem Kontrol (Control System)
+;827400100;Pesawat Bantu Kapal Niaga (PBKN)
+;828010100;Pengantar Ekonomi dan Bisnis
+;828010101;Menjelaskan prinsip-prinsip bisnis
+;828010102;Melakukan penataan produk
+;828010103;Melaksanakan negosiasi & konfirmasi keputusan pelanggan
+;828010104;Melaksanakan proses administrasi transaksi
+;828010105;Melakukan penyerahan/pengiriman produk
+;828010106;Melaksanakan penagihan pembayaran
+;828010107;Mengoperasikan peralatan transaksi di lokasi penjualan
+;828010108;Mengidentifikasi peluang baru dari pelanggan
+;828010109;Membuka usaha eceran/ritel (expansion store opening)
+;828010110;Melakukan pemasaran barang & jasa
+;828011000;Ekonomi Bisnis
+;828020100;Pengantar Administrasi Perkantoran
+;828020101;Mengaplikasikan keterampilan komunikasi
+;828020102;Mengaplikasikan penyelenggaraan administrasi perkantoran
+;828020103;Melakukan korespondensi
+;828020104;Mengoperasikan & merawat alat-alat kantor
+;828020105;Memberikan pelayanan prima kepd pelanggan
+;828020106;Berkomunikasi dalam bahasa Inggris 
+;828020107;Mengelola dokumen & arsip
+;828020108;Mengatur perjalanan dinas
+;828020109;Menangani pertemuan
+;828020110;Memproses transaksi keuangan
+;828030100;Pengantar Akuntansi
+;828030101;Melaksanakan prinsip profesionalisme dalam bekerja 
+;828030102;Menerapkan komunikasi bisnis
+;828030103;Mengelola dokumen transaksi kegiatan kas
+;828030104;Memproses entri jurnal
+;828030105;Memproses transaksi ke dalam buku besar
+;828030106;Mengelola kartu utang, piutang, persediaan, & aktiva tetap
+;828030107;Menyajikan laporan harga pokok produk
+;828030108;Menyusun & menyajikan laporan keuangan
+;828030109;Menyiapkan surat pemberitahuan pajak
+;828030110;Mengoperasikan paket program pengolah angka/spreadsheet
+;828030111;Mengoperasikan aplikasi komputer akuntansi
+;828031100;Perbankan Dasar
+;828040100;Otomatisasi Perkantoran
+;828041100;Teknologi Perkantoran
+;828050100;Korespondensi
+;828060100;Kearsipan
+;828070100;Administrasi Kepegawaian
+;828070200;Otomatisasi Tata Kelola Kepegawaian
+;828080100;Administrasi Keuangan
+;828080101;Menerapkan prinsip praktik profesional dalam bekerja
+;828080102;Mengelola siklus akuntansi jasa & dagang 
+;828080103;Mengelola akad transaksi 
+;828080104;Mengelola transaksi di bi&g &a bank syariah
+;828080105;Mengelola proses pembiayaan di bank syariah
+;828080106;Menerapkan etika bisnis Islam
+;828080107;Menerapkan prinsip dasar ekonomi Islam
+;828080108;Menerapkan aspek manajemen bank syariah
+;828080109;Mengelola administrasi kas 
+;828080110;Mengelola laporan keuangan bank syariah
+;828080111;Mengelola administrasi pajak
+;828080112;Mengelola komputer akuntansi
+;828080113;Menerapkan prinsip dasar perbankan syariah
+;828080114;Mengelola administrasi biaya produksi
+;828080120;Menerapkan etika dalam pelayanan nasabah
+;828080121;Menjelaskan konsep bank umum berdasarkan prinsip syariah
+;828080122;Menjelaskan konsep pasar modal dan valuta asing
+;828080123;Menjelaskan konsep perusahaan anjak piutang dan sewa guna
+;828080124;Menjelaskan konsep perusahaan dana pensiun dan modal ventura
+;828080125;Menjelaskan lalu lintas pembayaran transaksi
+;828080126;Menjelaskan lembaga keuangan bukan bank
+;828080127;Menjelaskan prinsip keuangan dan lembaga keuangan
+;828080128;Menjelaskan sumber pendanaan bank
+;828080129;Menjelaskan usaha kartu plastik
+;828080200;Otomatisasi Tata Kelola Keuangan
+;828090000;Administrasi Umum
+;828090100;Administrasi sarana dan prasarana
+;828090200;Otomatisasi Tata Kelola Sarana dan Prasarana
+;828100100;Administrasi Humas dan Keprotokolan
+;828100200;Otomatisasi Tata Kelola Humas dan Keprotokolan
+;828110100;Etika Profesi
+;828120100;Pengantar Pariwisata
+;828120200;Kepariwisataan
+;828120300;Komunikasi Industri Pariwisata
+;828130100;Pemesanan Tempat (Airlines Resevation)
+;828130110;Pemesanan Tempat, Tour Leader, dan Spesial Event
+;828140100;Sanitasi, Hygiene dan Keselamatan Kerja
+;828140110;Keamanan Pangan (Sanitasi, Higienis, dan Keselamatan Kerja)
+;828150100;Industri Perhotelan
+;828150101;Melakukan pelayanan prima
+;828150102;Menerapkan hygiene,sanitasi,keselamtn kerja &lingkungn hidup
+;828150103;Mengidentifikasi sumber-sumber informasi industry pariwisata
+;828150104;Melakukan kom.dgn konsumen melalui telp atau surat menyurat
+;828150105;Melakukan pelaynn porter&jsa valet pd tamu sscr provisional
+;828150106;Melakukan layanan reservasi 
+;828150107;Melakukan layanan akomodasi reception
+;828150108;Melakukan pembukuan keuangan
+;828150109;Melaksanakan & memproses dokumen kantor
+;828150110;Melakukan pembersihan area umum (Public Area) & peralatan 
+;828150111;Melakukan penataan layanan ruang rapat/seminar
+;828150112;Melakukan penataan kamar untuk tamu & layanan housekeeping
+;828150113;Melakukan, melyni memproses penangnn linen & pakaian tamu 
+;828160100;Public Relation
+;828170100;Menghitung Tarif dan Dokumen Pasasi
+;828180100;Perencanaan dan Pengelolaan Perjalanan 
+;828180110;Perencanaan dan Pengelolaan Perjalanan Wisata
+;828180120;Perencanaan dan Pengelolaan Usaha Wisata Bahari dan Ekowisata
+;828190100;Pemanduan Perjalanan Wisata
+;828190101;Menerapkan pelayanan prima
+;828190102;Memutakhirkan informasi industri pariwisata
+;828190103;Melaksanakan tata cara pemesanan tempat (Airline Reservaton)
+;828190104;Melakukan perhitungan tarif & dokumen pasasi udara
+;828190105;Melakukan penawaran paket wisata
+;828190106;Melakukan perencanaan & pengelolaan perjalanan wisata  
+;828190107;Melakukan pemanduan perjalanan wisata 
+;828190108;Mempresentasikan komentar pemanduan wisata
+;828190110;Kepemanduan Ekowisata
+;828190120;Kepemanduan Wisata Bahari
+;828190130;Pemesanan dan Penghitungan Tarif Penerbangan
+;828200100;Pengelolaan Meeting, Converence & Exhibition
+;828200110;Pengelolaan Meeting, Incentive, Conference dan Exhibition
+;828210100;Front Office
+;829010100;Tata Graha
+;829010200;Housekeeping
+;829020200;Binatu
+;829020300;Laundry
+;829020400;Food and Beverage
+;829020410;Food and Beverage Service
+;829020500;Klerikal dan Komunikasi Industri Perhotelan
+;829020600;Banquet Management
+;829020700;Rooms Division Management
+;829030300;Tata Hidang
+;829040400;Pengetahuan Bahan Makanan
+;829050500;Boga Dasar
+;829060600;Ilmu Gizi
+;829070700;Pengolahan dan Penyajian Makanan Kontinental
+;829080800;Pengolahan dan Penyajian Makanan Indonesia
+;829080900;Pengolahan dan Penyajian Makanan
+;829081000;Produk Cake, dan Kue Indonesia
+;829090900;Hidanganan Kesempatan Khusu dan Fusion Food
+;829101000;Pengelolaan Usaha Boga
+;829101001;Menerapkan keselamtn, kesehtn kerja (K3), & hygiene sanitasi
+;829101002;Melakukan komunikasi 
+;829101003;Melakukan persiapan pengolahan makanan
+;829101004;Melakukan pengolahan & penyajian makanan kontinental
+;829101005;Melakukan pengolahan & penyajian makanan Indonesia
+;829101006;Mengolah & menyajikan makanan & minuman 
+;829101007;Melakukan perencanaan & pengolhn maknn sesuai kebutuhan gizi
+;829101008;Melakukan perencanaan& pengolhn mkann untk kesempatan khusus
+;829101009;Melaksanakan pengelolaan usaha jasa boga
+;829111100;Produk Pastry dan Bakery
+;829111101;Melakukan komunikasi dalam pelayanan jasa
+;829111102;Melakukan persiapan pengolahan produk patiseri
+;829111103;Melakukan pengolahan & penyajian kue Indonesia
+;829111104;Melakukan pengolahan & penyajian kue pastry kontinental 
+;829111105;Melakukan pengolahan & penyajian coklat & permen coklat
+;829111106;Melakukan perencanaan produk roti & kue untuk diet khusus 
+;829111107;Melakukan pelayanan makanan & minuman 
+;829111108;Melakukan pengolahan & menyajikan hi&gan penutup 
+;829111109;Melakukan pengelolaan usaha produk patiseri 
+;829121200;Produk Cake
+;829131300;Kue Indonesia
+;829141400;Roti, kue Diet Khusus dan Teknik Fusion
+;829151500;Pengelolaan Usaha Pastry dan Bakery
+;830010100;Sanitasi, Hygiene Kecantikan
+;830020100;Kosmetika
+;830030100;Anatomi dan Fisiologi Kecantikan
+;830040000;Kecantikan Dasar
+;830040100;Dasar Kecantikan Kulit
+;830040101;Menjelaskan anatomi & fisiologi 
+;830040102;Menjelaskan kosmetika kecantikan
+;830040103;Melakukan perawatan kulit wajah tidak bermasalah
+;830040104;Melakukan rias wajah sehari-hari
+;830040105;Melakukan perwtn tngn kaki kuku, kulit kepl & mewrnai kuku 
+;830040106;Melakukan perawatan kulit wajah bermasalah secara manual
+;830040107;Melakukan rias wajah khusus
+;830040108;Melakukan pengangkatan bulu yg tidak dikehendaki (depilasi)
+;830040109;Melakukan perawatan klt wajah bermasalah dgn pertln bertek.
+;830040110;Melakukan rias wajah utk keg. event (foto/tv/film...)
+;830040111;Melakukan perawatan ba& secara tradisional & modern 
+;830050040;Perawatan Wajah (Beauty Aesthetic) pada SPA
+;830050100;Dasar Kecantikan Rambut
+;830050101;Melakukan pencucian rambut 
+;830050102;Melakukan perawatan kulit kepala & rambut
+;830050103;Melakukan pengeringan rambut dengan alat pengering
+;830050104;Melakukan pemangkasan rambut & penataan rambut
+;830050105;Melakukan pengeritingan rambut
+;830050106;Melakukan penataan sanggul
+;830050107;Melakukan pewarnaan rambut
+;830050108;Melakukan pelurusan rambut
+;830050200;Pengelolaan Usaha Beauty Aesthetic Pada SPA (Bilingual)
+;830050300;Perawatan Badan (Body Treatment) Pada SPA
+;830050400;Manicure, Padicure dan Waxing pada SPA
+;830060100;Pemangkasan dan Penataan Rambut
+;830060200;Pemangkasan dan Pewarnaan Rambut
+;830070100;Pengeritingan dan Pelurusan Rambut
+;830080100;Pewarnaan Rambut
+;830090100;Penataan Sanggul Tradisional dan Kreatif
+;830090200;Pengeritingan Rambut dan Penataan Sanggul Tradisional dan Kreatif
+;830100100;Pengelolaan Usaha Kecantikan
+;830110100;Manicure Pedicure Spa dan Nail Art
+;830120100;Rias wajah Khusus dan Kreatif
+;830120200;Perawatan Tangan, Kaki, Nail Art dan Rias Wajah Khusus dan Kreatif
+;830130100;Perawatan Wajah dengan Teknologi
+;830140100;Perawatan Badan dan Penjabutan Bulu
+;830140200;Perawatan Wajah, Badan (Body Massage) dan Waxing
+;831010101;Melaksanakan proses persiapan penyempurnaan tekstil
+;831010102;Melaksanakan proses penyempurnaan tekstil
+;831010103;Mengidentifikasi zat warna & zat pembantu
+;831010104;Melaksanakan proses pencelupan kain & benang
+;831010105;Melakukan proses pencapan
+;831010106;Melaksanakan proses penyempurnaan fisika & kimia
+;831010107;Merawat mesin penyempurnaan tekstil
+;831010200;Pengetahuan Bahan Tekstil
+;831010300;Presentasi Kreasi Karya
+;831020200;Dasar Teknologi Menjahit
+;831020210;Teknologi Menjahit
+;831030300;Dasar Pola
+;831040400;Dasar Desain
+;831050500;Pembuatan Hiasan
+;831050510;Pembuatan Hiasan Busana
+;831060600;Desain Busana
+;831060601;Melaksanakan pemeliharaan kecil mesin jahit
+;831060602;Melaksanakan layanan scr prima kpd pelanggan (customer care)
+;831060603;Membuat busana pria 
+;831060604;Membuat busana anak 
+;831060605;Menggambar busana (fashion drawing)
+;831060606;Membuat pola (pattern making)
+;831060607;Membuat busana wanita
+;831060608;Membuat busana bayi
+;831060609;Memilih bahan baku busana 
+;831060610;Membuat hiasan pada busana (embroidery)
+;831060611;Mengawasi mutu busana
+;831070700;Pembuatan Pola
+;831070800;Pembuatan Busana
+;831080800;Pembuatan Busana (Industri)
+;831080801;Melaksanakan pelayanan prima 
+;831080802;Memilih bahan baku tekstil
+;831080803;Memodifikasi pola atau blok
+;831080804;Menyesuaikan ukuran pola
+;831080805;Membuat marker
+;831080806;Melakukan proses spreading, cutting, & bundelling
+;831080807;Mengoperasikan & melakukan pemeliharaan mesin jahit
+;831080808;Melakukan pemasangan kancing
+;831080809;Melakukan proses fusing
+;831080810;Melakukan proses finishing
+;831080811;Melaksanakan kendali & penjaminan kualitas
+;831080900;Pengembangan Bisnis Busana
+;831090900;Pembuatan Busana (custom-made)
+;831101000;Dasar-dasar Desain
+;831101200;Dasar-dasar Desain Kriya
+;831101300;Desain Produk
+;831101400;Gambar
+;831102000;Dasar-dasar Seni Rupa
+;832010100;Sketsa dan Gambar
+;832020100;Sketsa
+;832030100;Seni Lukis Dekoratif
+;832030200;Seni Lukis Realis
+;832030400;Seni Lukis dinding (Mural/Mosaik)
+;833020100;Desain Tiga Dimensi
+;834010100;Relief
+;834020100;Pembuatan Patung
+;834020101;Menggambar teknik, sketsa & bentuk
+;834020102;Membuat gambar dasar secara manual & program komputer 3D
+;834020103;Membuat desain relief teknik manual & komputer
+;834020104;Membuat desain patung teknik manual
+;834020105;Membuat rencana dengan teknik komputer
+;834020106;Membuat relief teknik pahat & modelling
+;834020107;Membuat relief teknik cetak tunggal & ganda
+;834020108;Membuat patung teknik pahat & ketok
+;834020109;Membuat patung teknik cetak tunggal & ganda
+;834020110;Melaksanakan pameran seni patung
+;834020200;Patung
+;835010100;Reproduksi
+;835010200;Reproduksi 3D
+;835010300;Desain Patung 3D
+;836020101;Merencanakan pekerjaan bahan kayu, logam & batu produk 
+;836020102;Menggambr sketsa & teknik obj desain prod int. & landscaping
+;836020103;Menggambar dengan perangkat lunak CAD
+;836020104;Melaksanakan pekerjaan kayu
+;836020105;Melaks.finishing desain prod. Int.& landscaping bhn kayu
+;836020106;Melaksanakan pekerjaan logam
+;836020107;Melaksanakan finishing prod. Int. & landscaping bhn logam
+;836020108;Melaksanakan pekerjaan batu
+;836020109;Melaksanakan finishing pekerjaan bahan batu
+;837030100;Desain Interior
+;837030200;Dasar Desain Interior dan Teknik Furnitur
+;838040100;Desain Furniture
+;839010100;Pengetahuan Bahan 
+;839020100;Dasar Kekriyaan
+;839020101;Menggambar dengan program komputer
+;839020102;Membuat gambar berbagai jenis produk kria tekstil
+;839020103;Mewarna pd kain & serat
+;839020104;Membuat kria tekstil dengan teknik cetak saring
+;839020105;Membuat kria tekstil dgn teknik batik tulis,cap,& ikat celup
+;839020106;Membuat kria tekstil dengan teknik makrame
+;839020107;Membuat kria tekstil dgn teknik jahit perca,aplikasi &tindas
+;839020108;Membuat kria tekstil dengan teknik kristik & sulam
+;839020109;Membuat kria tekstil dengan teknik tenun
+;839020110;Membuat kria tekstil dengan teknik tapestri
+;839020121;Membuat produk alas kaki
+;839020122;Membuat produk kerajinan kulit non alas kaki & non busana
+;839020123;Mencetak kulit dengan mesin press
+;839020124;Menyeset kulit dengan pisau seset manual & seset masinal
+;839020125;Menjahit kulit dengan tangan & mesin
+;839020126;Membentuk produk kulit dengan kulit perkamen
+;839020127;Membentuk produk kulit dengan teknik tatah sungging
+;839020128;Membuat produk kulit bentuk busana
+;839020129;Membuat produk kulit bntk asesoris,dompet, & gantungan kunci
+;839020141;Mengolah clay body menjadi tanah liat plastis
+;839020142;Membuat cetakan pekerjaan keramik
+;839020143;Membentuk keramik dengan tangan
+;839020144;Membentuk keramik dengan teknik putar
+;839020145;Membentuk keramik dengan teknik cetak 
+;839020146;Membuat dekorasi keramik pd proses pembentukan 
+;839020147;Membuat dekorasi keramik clay body plastis & leather hard
+;839020148;Mengglasir benda keramik
+;839020149;Membakar benda keramik
+;839020161;Melakukan pengempaan & penempaan
+;839020162;Membuat produk kria logam dengan teknik canai
+;839020163;Mengecor logam dalam berbagai bentuk
+;839020164;Melakukan pematrian logam dengan teknik patri lunak & keras
+;839020165;Melaksanakan pengelasan dengan oxyacetylene & las listrik
+;839020166;Membuat karya kria logam dengan bahan pelat & kawat
+;839020167;Menghias logam dengan berbagai teknik 
+;839020168;Melakukan pembubutan logam
+;839020169;Melakukan kerja perhiasan (jewellery)
+;839020170;Melakukan finishing kria logam
+;839030100;Desain Produk 
+;839040100;Pewarnaan
+;839050100;Batik
+;839060100;Tenun
+;839070100;Cetak Saring
+;839070200;Sablon
+;839080100;Jahit
+;839090100;Makrame
+;839100100;Produk Alas Kaki
+;839100200;Alas Kaki Kulit dan Imitasi
+;839110100;Produk Kulit non alas kaki dan non busana
+;839110200;Non Alas Kaki dan Non Busana Kulit dan Imitasi
+;839120100;Produk Kulit Tatah Sungging
+;839120200;Tatah Sungging Kulit
+;839130100;Produk Busana Kulit
+;839130200;Busana Kulit dan Imitasi
+;840010100;Pengolahan Tanah Liat
+;840020100;Pembentukan Benda Keramik
+;840020110;Pembentukan dengan Teknik Cetak
+;840020120;Pembentukan dengan Teknik Langsung
+;840020130;Pembentukan dengan Teknik Putar Centering
+;840020140;Pembentukan dengan Teknik Putar Pilin
+;840030100;Dekorasi Keramik
+;840040100;Pengglasiran Benda Keramik
+;840050100;Pembakaran Benda Keramik
+;841010100;Pembuatan Perhiasan
+;842010100;Dekorasi dan Kethok Pembentukan
+;842020100;Penyiapan bahan produksi kriya kayu
+;842020181;Melaksanakan teknik kerja bangku
+;842020182;Melaksanakan pekerjaan ukir kayu
+;842020183;Membuat produk kria kayu dengan teknik bubut
+;842020184;Membuat produk kria kayu dengan teknik inlay
+;842020185;Membuat produk kria kayu teknik skrolling
+;842020186;Membuat komponen produk kria kayu dengan mesin kayu tetap
+;842020187;Melakukan pekerjaan finishing kayu
+;842020188;Melakukan pekerjaan pengeringan kayu 
+;842020189;Membuat produk kria kayu dengan apilkasi bahan non kayu
+;842030100;Pembuatan produk dengan teknik ukir
+;842030200;Pembuatan prod. dengan teknik kerja bangku & mesin
+;842030300;Pembuatan produk dengan teknik bubut
+;842030400;Pembuatan produk dengan teknik sekrol
+;842040100;Melakukan finishing kriya kayu
+;842040200;Kerja Finishing
+;842040300;Teknik Kerja Bangku
+;842040400;Teknik Kerja Mesin
+;842040500;Teknik Kerja Ukir
+;843010200;Solfegio
+;843010710;PIP Klasik
+;843010711;Membaca notasi musik (teori musik)
+;843010712;Memainkan repertoar dalam tangga nada mayor
+;843010713;Memainkan repertoar dalam tangga nada minor
+;843010720;Piano Wajib
+;843011000;Dasar Penguasaan Instrumen Pokok
+;843011100;Dasar Penguasaan Instrumen
+;843011700;PIP Non Klasik
+;843011730;Koor/Orkes
+;843011740;Orkestra
+;843011741;Orkestra/AnsambelLanjut
+;843011742;Orkestrasi
+;843011751;Menerapkan teori musik (membaca notasi musik)
+;843011752;Mengidentifikasi solfegio
+;843011753;Menyusun harmoni SATB
+;843011754;Menerapkan instrumen individu non klasik
+;843011755;Mengoperasikan program komputer musik
+;843012000;Ansambel Dasar
+;843020100;Seni Budaya
+;843030100;Wawasan Seni dan Desain
+;843030200;Wawasan Seni Pertunjukan
+;843030300;Manajemen Seni Pertunjukan
+;843030400;Dasar-dasar Kreativitas
+;843030500;Tinjauan Seni
+;843040100;Seni Lukis Modern
+;843040101;Membuat gmbr dasar lukis realistik dgn tek. bhn kering & bsh
+;843040102;Membuat lukisan tradisional & lukisan modern
+;843040103;Membuat lukisan mixed media
+;843040104;Membuat lukisan kaca
+;843040105;Membuat lukisan mosaik
+;843040106;Membuat lukisan air brush
+;843040107;Membuat lukisan teknik seni grafis
+;843040108;Membuat lukisan teknik batik
+;843040109;Membuat foto obyek lukisan dengan kamera digital
+;843040110;Membuat gambar lukisan dengan komputer
+;843040111;Melaksanakan pameran seni lukis
+;843040200;Seni Lukis Imajiner
+;843040300;Seni Eksperimen
+;843040310;Seni Lukis Eksperimental
+;843040400;Tata Teknik Pentas
+;843040500;Seni Lukis Ekspresif
+;843050100;Teori Musik
+;843050200;Apresiasi Musik
+;843050300;Harmoni
+;843050500;Band
+;843050600;Musik Teknologi
+;843050700;Keyboard
+;843060100;Pengetahuan Seni Tari
+;843060300;Iringan Tari
+;843060400;Dasar Tari
+;843060410;Gerak Dasar Tari
+;843060500;Tari Tradisi
+;843060501;Memainkan tari: Ngremo/Remo (Surabaya)
+;843060502;Memainkan tari: Jejer/Paju Gandrung (Banyuwangi)
+;843060503;Memainkan tari: Beskalan,Bapang,Klono Topeng Patih (Malang)
+;843060504;Memainkan tari: Muang Sangkal, Topeng Getak (Madura)
+;843060505;Memainkan tari: Glipang (Probolinggo)
+;843060506;Memainkan tari daerah lain: Gambyong
+;843060507;Memainkan tari daerah lain: Enggar-enggar/Karonsih
+;843060508;Memainkan tri daerah: Pendet/Payemrama, Oleg TamuLilingan
+;843060509;Memainkan tari daerah lain: Panji Semirang
+;843060510;Melaksanakan tata teknis pentas: tata rias & busana
+;843060511;Menarikan tari Anging Mamiri Anida & Tomassenga
+;843060512;Menarikan tari Bosara
+;843060513;Menarikan tari Dao Bulan
+;843060514;Menarikan tari Galaganjur
+;843060515;Menarikan tari Malattu Kopi
+;843060516;Menarikan tari Ma'randing
+;843060517;Menarikan tari Marellau Pammase Dewata
+;843060518;Menarikan tari Pabbekenna Maji'na & Pagellu
+;843060519;Menarikan tari Pajaga Gilireng & Pajoge Makkunrai
+;843060520;Menarikan tari Pakarena Anida & Jangang Lea-Lea
+;843060521;Menarikan tari Pakuru Sumanga & Pangayo
+;843060522;Menarikan tari Patteunung & Patuddu Sarawa&g
+;843060523;Menarikan tari Saloureng & sayo kembe
+;843060524;Menarikan tari Sere Lalosu/Sere Alusu
+;843060525;Menarikan tari Galambang Pa&g Laweh
+;843060526;Menarikan tari Layang-Layang Gusmiati Suid
+;843060527;Menarikan tari Pasambahan Sofyani
+;843060528;Menarikan tari In&g Sungai Garinggiang
+;843060529;Menarikan tari San&g Pangan & Nelayan Huriah Adam
+;843060530;Menarikan tari Payuang & tari Piriang III Sofyani
+;843060531;Menarikan tari Panen Gusmiati Suid
+;843060532;Menarikan tari Mulo Pado Zuryati Zoebir, Nurbaini .B.
+;843060533;Menarikan tari Rantak Gusmiati Suid
+;843060534;Menarikan tari Mancak Koto Anao
+;843060535;Menarikan tari Alang Babega
+;843060536;Menarikan tari Rantak Kudo
+;843060537;Menarikan tari Sado
+;843060540;Melaksanakan praktek menabuh iringan tari
+;843060541;Menata/mendesain rias & busana Tari Sunda
+;843060542;Melaksanakan tata teknik pentas
+;843060543;Menarikan Tari Keurseus
+;843060544;Menarikan Tari Wayang
+;843060545;Menarikan Tari Ketuk Tilu
+;843060546;Menarikan Tari Karya Individu
+;843060547;Menarikan Tari Topeng Priangan
+;843060548;Menarikan Tari Pencak Silat
+;843060549;Menarikan Tari Jaipongan
+;843060550;Menarikan Tari Topeng Cirebon
+;843060551;Menarikan Oleg Tambulilingan
+;843060552;Menarikan tari Baris Tunggal
+;843060553;Menarikan tari Condong Legong Keraton
+;843060554;Menarikan tari Jauk Keras & Jauk Manis
+;843060555;Menarikan tari Kebyar Duduk & Kebyar Terompong
+;843060556;Menarikan tari Legong Guak Macok, Jobog, & Lasem
+;843060557;Menarikan tari Panji Semirang
+;843060558;Menarikan tari Panyembrama
+;843060559;Menarikan tari Pendet
+;843060560;Menarikan tari Tarunajaya
+;843060561;Menarikan tari Telek
+;843060562;Menarikan tari Tenun
+;843060563;Menarikan tari Topeng Tua, Topeng Keras, & Dalem Arsawijaya
+;843060564;Menarikan tari Wiranata & Wirayuda
+;843060565;Menarikan tari putri
+;843060566;Menarikan tari alus
+;843060567;Menarikan tari gagah
+;843060568;Menarikan tari daerah lain (Bali,Sunda,Yogyakarta,&Banyumas)
+;843060569;Menyusun gerak tari/koreografi
+;843060570;Melakukan tata rias & busana
+;843060571;Memainkan karawitan
+;843060572;Melagukan vokal tembang
+;843060573;Melakukn tata teknik pentas: tt cahaya, tt panggung tt suara
+;843060574;Menarikan tari daerah lain (Bali,Sunda,Surakarta,& Banyumas)
+;843060575;Memainkan instrumen Pokok Rebab tingkat Pengrawit
+;843060576;Memainkan instrumen Pokok kendang tingkat Pengrawit
+;843060577;Memainkan instrumen Pokok Gender tingkat Pengrawit
+;843060578;Memainkan karawitan (PKB) Calung tingkat Pengrawit
+;843060579;Memainkan karawitan iringan tari tingkat Pengrawit
+;843060580;Memainkan karawitan iringan Wayang tingkat Pengrawit
+;843060581;Memainkan karawitan (PKB) daerah lain (tari Surakarta)
+;843060582;Memainkan karawitan (PKB) Gamelan Perunggu gaya Banyumas
+;843060583;Menyajikan vokal daerah
+;843060600;Tata Rias Busana Tari
+;843060610;Tata Rias dan Tata Busana Tari
+;843060620;Tata Rias dan Busana
+;843060700;Koreografi
+;843060810;Pagelaran Tari
+;843060900;Pengetahuan Karawitan Dasar
+;843060901;Memainkan kelompok instrumen balungan tingkat pengrawit
+;843060902;Memainkan kelompok instrumen struktural tingkat pengrawit
+;843060903;Memainkan instrumen gender penerus tingkat pengrawit
+;843060904;Memainkan instrumen gender barung penerus tingkat pengrawit
+;843060905;Memainkan instrumen rebab tingkat pengrawit
+;843060906;Memainkan instrumen kendang tingkat pengrawit
+;843060907;Memainkan karawitan mandiri (PKB) tingkat pengrawit
+;843060908;Memainkan karawitan iringan tingkat pengrawit
+;843060909;Menyajikan vokal daerah tingkat pengrawit
+;843060910;Memainkan instrumen gen&g
+;843060911;Memainkan instrumen kecapi
+;843060912;Memainkan instrumen suling
+;843060913;Menyanyi vokal Makassar
+;843060914;Memainkan karawitan mandiri
+;843060915;Memainkan karawitan iringan/ilustrasi
+;843060916;Memainkan karawitan Bangsi
+;843060917;Memainkan karawitan Serunai
+;843060918;Memainkan karawitan Kecapi
+;843060919;Memainkan karawitan Gen&g
+;843060920;Menden&gkan vokal Minang
+;843060921;Menyanyikan vokal Minang
+;843060922;Memainkan karawitan Saluang
+;843060923;Memainkan karawitan Rebab
+;843060924;Memainkan karawitan Talempong Pacik
+;843060925;Memainkan karawitan Iringan Tari
+;843060926;Memainkan karawitan Iringan Vokal
+;843060927;Memainkan komposisi karawitan
+;843060928;Membawakan sekar mamaos
+;843060929;Membawakan sekar kapasindhenan
+;843060930;Membawakan lagu-lagu kawih
+;843060931;Menabuh waditra gamelan dlm ... lagu gede embat opat wiled
+;843060932;Menabuh waditra kendang dlm ... rerenggongan embat 2 wiled
+;843060933;Menabuh waditra kendang dlm gending . embat sawilet & kering
+;843060934;Memainkan instrumen siter tingkat pengrawit
+;843060935;Memainkan instrumen gender barung tingkat pengrawit
+;843060936;Memainkan instrumen gambang tingkat pengrawit
+;843060937;Memainkan instrumen suling tingkat pengrawit
+;843060938;Memainkan instrumen bonang barung tingkat pengrawit
+;843060939;Memainkan karawitan bersama Yogyakarta
+;843060940;Memainkan ricikan/instrumen individu rebab
+;843060941;Memainkan ricikan/instrumen individu kendang
+;843060942;Memainkan ricikan/instrumen individu gender
+;843060943;Memainkan ricikan/instrumen individu gambang
+;843060944;Memainkan ricikan/instrumen individu siter
+;843060945;Memainkan karawitan iringan
+;843060946;Memainkan vokal sinden
+;843060947;Memainkan vokal tembang
+;843060948;Menabuh gong kebyar iringan tari
+;843060949;Menabuh gong kebyar tabur instrumental
+;843060950;Menabuh gong gede tabuh lelembatan
+;843060951;Menabuh gamelan angklung tabuh instrumental
+;843060952;Memainkan instrumen rebab
+;843060953;Memainkan instrumen kendang gupekan
+;843060954;Memainkan instrumen kendang pepanggulan
+;843060955;Memainkan gender wayang
+;843060956;Menyanyikan vokal daerah (tembang)
+;843060957;Menabuh gamelan palegongan iringan tari
+;843060958;Menabuh gamelan semar pagulingan tabuh instrumental
+;843060959;Menabuh gamelan babarongan gending iringan tari
+;843060960;Memainkan vokal daerah
+;843061000;Teknik Karawitan Dasar
+;843061100;PKB (Praktik Karawitan Bersama)
+;843061110;Praktik Karawitan Iringan
+;843061200;Kreativitas Karawitan
+;843061300;Praktik Individu Instrumen Pokok
+;843061310;Penguasaan Instrumen Pokok
+;843061400;Pengetahuan Karawitan
+;843061500;Teknik Instrumen Pokok
+;843061600;Metode Kepelatihan
+;843061700;Tari bentuk
+;843062000;Penataan Karawitan Iringan
+;843062100;Penataan Karawitan Mandiri
+;843062200;Penciptaan Karawitan
+;843062300;Praktik Karawitan Daerah lain
+;843062400;Praktik Karawitan Daerah Setempat
+;843063000;Tari Daerah Lain
+;843070100;Vokal
+;843070110;Vokal Karawitan
+;843070200;Teknik Vokal Dasar
+;843070300;Praktik Vokal
+;843070400;PIIP (Praktik Individu Instrumen Pokok) Dasar
+;843070500;Titilaras dan Vokal Dasar
+;843070600;Pengetahuan Bahan dan Alat
+;843070700;Ilmu Bentuk Analisis Karawitan
+;843080101;Menerapkan teknik dasar memainkan wayang
+;843080102;Melaksanakan dialog wayang (antawacana)
+;843080103;Melakukan olah vokal pedalangan
+;843080104;Melakukan iringan pedalangan
+;843080105;Melakukan teknik dasar dodogan & keprakan
+;843080106;Melakukan teknik gerak, antawacana, vokal, dodogan& keprakan
+;843080107;Menulis naskah cerita wayang (naskah pendek/pdt)
+;843080108;Menulis naskah cerita wayang utuh
+;843080109;Merencanakan & mendemonstrasikan pentas wayang
+;843080131;Melakukan olah vokal tembang
+;843080132;Melakukan teknik dasar dodogan, keprakan/cepala
+;843080133;Melakukan teknik perang sesuai dengan jenis&karakter wayang
+;843080200;Pengetahuan Pedalangan
+;843080400;Praktek Pedalangan
+;843080410;Praktik Pedalangan Dasar
+;843080500;Vokal Pedalangan
+;843080510;Iringan Pedalangan
+;843080520;Lakon Pedalangan
+;843080600;Tehnik Gerak Wayang
+;843090100;Tata Teknis Pentas
+;843090300;Pengetahuan Teater
+;843090301;Menerapkan fungsi anatomi tubuh manusia dalam olah tubuh 
+;843090302;Menerapkan olah vokal & olah pernafasan 
+;843090303;Menerapkan olah sukma
+;843090304;Menerapkan dasar-dasar dramatik
+;843090305;Melaksanakan teknik tata pentas
+;843090306;Memerankan tokoh dalam drama sesuai dengan karakter 
+;843090307;Melaksanakan penulisan naskah lakon drama
+;843090308;Melaksanakan tata panggung, dekorasi, tata cahaya & suara
+;843090309;Melaksanakan tata rias panggung
+;843090310;Melaksanakan tata busana
+;843090311;Membuat pementasan drama
+;843090400;Dasar Pemeranan
+;843090500;Dasar Tata Artistik
+;843090600;Tata artistik
+;843090700;Dasar Komposisi
+;843090800;Kerja Kreatif Garap Tari
+;843090900;Kerja Kreatif Garap Musik Pengiring Tari
+;843100100;Olah Tubuh 
+;843100200;Olah Suara
+;843100300;Olah Rasa
+;843110100;Teknik Pemeranan
+;843110200;Bermain Peran
+;843110300;Teknik Penghayatan Peran
+;843120100;Tata Rias
+;843120200;Tata Busana
+;843120300;Tata Suara
+;843120400;Tata Cahaya
+;843120500;Tata Panggung
+;875150001;Menerapkan keselamatan penerbangan sipil
+;875150002;Menerapkan dasar-dasar teknologi pesawat udara 
+;875150003;Menerapkan konsep & prinsip aircraft drawing 
+;875150004;Menerapkan konsep electrical, instrument,electronic&digital 
+;875150005;Menerapkan penggunaan aircraft material and hardware
+;875150006;Menerapkan aircraft maintenance practice and tools
+;875150007;Menerapkan aerodynamic and flight control 
+;875150008;Melakukan perawatan & perbaikan aircraft structure 
+;875150009;Melaksanakan perawatan aircraft system 
+;875150010;Melakukan perawatan piston engine system and component
+;875150011;Merawat turbine engine system and component 
+;875150012;Merawat propeller
+;875150020;Pistone Engine
+;875160001;Menerapkan konsep teknologi pesawat udara
+;875160002;Menerapkan keselamatan penerbangan sipil 
+;875160003;Menggunakan perkakas tangan
+;875160004;Melakukan pengukuran teknik
+;875160005;Melakukan pekerjaan pembubutan
+;875160006;Melakukan pekerjaan frais
+;875160007;Mengoperasikan mesin CNC
+;875160008;Melakukan pekerjaan pemesinan untuk pembuatan komponen 
+;875160009;Merakit komponen pemesina
+;875160010;Menggambar 2 dimensi dengan auto CAD
+;875160011;Menggambar 3 dimensi dengan auto CAD
+;875170001;Membaca & menggambar gambar teknik part Pesawat Udara
+;875170002;Menggunakan perkakas tangan & perkakas tangan bertenaga 
+;875170003;Melakukan pengukuran
+;875170004;Melaksanakan tek. pembentukan & perakitan part pesawat udara
+;875170005;Melakukan teknik las oksi asetilin
+;875170006;Mengelas dengan proses las busur
+;875170007;Membuat gambar bentangan /pemolaan
+;875180001;Menggambar sketsa & teknik
+;875180002;Menggambar 2D & 3D auto CAD
+;875180003;Mengukur dengan alat ukur mekanik presisi
+;875180004;Menggunakan perkakas tangan & bertenaga operasi digenggam
+;875180005;Melakukan pemotongan secara mekanik
+;875180006;Melakukan pekerjaan pengelasan menggunakan las busur listrik
+;875180007;Melakukan pekerjaan pengelasan  menggunakan las oxy-asetilin
+;875180008;Melaksanakan fabrikasi lembaran pelat untuk aircraft parts
+;875180009;Melakukan fabrikasi material komposit
+;875180010;Melakukan perakitan part-part struktur pesawat udara
+;875180011;Memelihara & memperbaiki sistem hidrolik
+;875190001;Menerapkan dasar teknologi pesawat udara (DTPU)
+;875190002;Menggambar teknik listrik & elektronika
+;875190003;Menggunakan peralatan kerja kelistrikan
+;875190004;Menerapkan rangkaian elektronika
+;875190005;Mengoperasikan mesin-mesin listrik
+;875190006;Membuat rangkaian kontrol motor
+;875190007;Merakit & memperbaiki sistem kelistrikan pesawat udara
+;875190008;Menerapkan dasar instrumen pesawat udara
+;875190009;Melaksanakan fuctional test instrumen pesawat udara
+;875190010;Melakukan fungsional tes perlengkapan listrik pesawat udara
+;875190100;Mesin Listrik Dan Kontrol Motor
+;875200001;Menerapkan dasar teknologi pesawat udara
+;875200002;Menggambar teknik listrik&elektronika dengan aplikasi komp.
+;875200003;Menganalisis rangkaian listrik & rangkaian elektronika dasar
+;875200004;Menerapkan rangkaian elektronika analog & digital
+;875200005;Menerapkan wiring kelistrikan pesawat udara
+;875200006;Menerapkan sistem komunikasi pesawat udara
+;875200007;Menerapkan instrumen pesawat udara
+;875200008;Menerapkan sistem mikrokomputer & controlling pesawat udara
+;875200009;Mengoperasikan radio navigasi pesawat udara
+;875201001;Menerapkan ilmu aerodynamic and flight control
+;875201002;Merawat aircraft structure & propulsion
+;875201003;Menerapkan aircraft drawing
+;875201004;Menerapkan electrical fundamental
+;875201005;Menerapkan electronic fundamental
+;875201006;Menerapkan teknik digital
+;875201007;Merawat radio communication & navigation
+;875201008;Menerapkan electronic instrument system
+;875201009;Menerapkan maintenance practice
+;875201010;Merawat aircraft system
+;875201011;Menerapkan aircraft material and hardware

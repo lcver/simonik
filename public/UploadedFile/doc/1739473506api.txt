@@ -1,0 +1,65 @@
+<?php
+
+use Illuminate\Http\Request;
+
+
+/*
+|--------------------------------------------------------------------------
+| API Routes
+|--------------------------------------------------------------------------
+|
+| Here is where you can register API routes for your application. These
+| routes are loaded by the RouteServiceProvider within a group which
+| is assigned the "api" middleware group. Enjoy building your API!
+|
+*/
+
+Route::get('/', function(){
+    return redirect()->route('apiGuide');
+});
+Route::prefix('/guide')->group(function(){
+    Route::get('/', 'ApiController\GuideController@index')->name('apiGuide');
+    Route::get('/autentikasiUser', 'ApiController\GuideController@autentikasiUser');
+    Route::get('/tugas', 'ApiController\GuideController@tugas');
+    Route::get('/jadwalPelajaran', 'ApiController\GuideController@jadwalPelajaran');
+});
+
+
+Route::middleware('auth:api')->get('/user', function (Request $request) {
+    return $request->user();
+});
+
+Route::group(['prefix' => 'v1.0',  'middleware' => 'cors'], function(){
+    Route::post('/login', 'ApiController\AuthController@login');
+    Route::post('/register', 'ApiController\AuthController@register');
+    Route::post('/verifikasi', 'ApiController\AuthController@verifikasi')->middleware('auth:api');
+
+    Route::group(['prefix' => 'tugas'], function(){
+        Route::get('/{id_kelas}', 'ApiController\TugasController@tugasKelas');
+        Route::get('/detail/{id}', 'ApiController\TugasController@tugasDetail');
+        Route::get('/today/{id_kelas}', 'ApiController\TugasController@reminder');
+        Route::get('/tugasForm/{id_kelas}', 'ApiController\TugasController@getForm');
+        Route::post('/store/{id_kelas}', 'ApiController\TugasController@store');
+    });
+    // Route::group(['prefix' => 'tugas',  'middleware' => 'auth:api'], function(){
+    //     Route::get('/{id_kelas}', 'ApiController\TugasController@tugasKelas');
+    //     Route::get('/detail/{id}', 'ApiController\TugasController@tugasDetail');
+    //     Route::get('/today/{id_kelas}', 'ApiController\TugasController@reminder');
+    // });
+
+    Route::group(['prefix' => 'jadwalPelajaran'], function(){
+        Route::get('/{id_kelas}', 'ApiController\JadwalPelajaranController@jadwalPelajaran');
+        Route::get('/today/{id_kelas}', 'ApiController\JadwalPelajaranController@jadwalPelajaranToday');
+    });
+
+});
+
+
+Route::group(['prefix' => "robot", 'middleware' => 'cors'], function(){
+    Route::group(['prefix' => "jadwalPelajaran"], function(){
+        Route::get('{id_kelas}', 'ApiController\JadwalPelajaranController@_Robot_jadwalPelajaran');
+        Route::get('/today/{id_kelas}', 'ApiController\JadwalPelajaranController@_Robot_jadwalPelajaranToday');
+    });
+
+    Route::post('login', 'ApiController\KelasController@_Robot_login');
+});

@@ -1,0 +1,8 @@
+Properti dan fungsi Mysqli
+https://www.eplusgo.com/mysqli/properti-dan-fungsi-mysqli/
+
+Bootstrap
+https://getbootstrap.com/docs/4.3/getting-started/download/
+
+Macam - Macam Fungsi PHP
+https://tutorallprogramming.blogspot.com/2018/04/php-penjelasan-macam-macam-dan-jenis.html

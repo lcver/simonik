@@ -1,0 +1,247 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SearchAndShort
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("---------------------------Data Search and Sort---------------------------");
+            Console.WriteLine("Program Untuk menginput sekumpulan data angka lalu mencari dan menyusunnya");
+            Console.WriteLine();
+        b:
+            Console.Write("Ada berapa data yang akan diinput? = ");
+            int data = int.Parse(Console.ReadLine());
+            string[] arr = new string[data];
+            //arr = Console.ReadLine().Split(' ');
+            Console.WriteLine("Masukan Data :");
+            for (int i = 0; i < data; i++)
+            {
+                Console.Write("Data - " + (i + 1) + " = ");
+                arr[i] = Console.ReadLine();
+            }
+
+            Console.WriteLine("Tampilkan Data :");
+
+
+            for (int j = 0; j < data; j++)
+            {
+
+                Console.Write(arr[j] + " ");
+            }
+
+            Console.WriteLine("\n");
+        a:
+            Console.WriteLine("Pilihan :");
+            Console.WriteLine("\t 1. Search data");
+            Console.WriteLine("\t 2. Urutkan Data Bubblesort ascending");
+            Console.WriteLine("\t 3. Urutkan Data SelectionSort descending");
+            Console.WriteLine("\t 4. Ganti Data");
+            Console.WriteLine("\t 5. Keluar");
+            Console.Write("Pilihan Anda : ");
+            string pilihan = Console.ReadLine();
+
+            string ulang;
+
+            int[] myint = Array.ConvertAll(arr, int.Parse);
+
+            if (pilihan == "1")
+            {
+                Console.Write("Masukan Angka Yang Ingin Dicari : ");
+                string cari = Console.ReadLine();
+                int temu = 0;
+                for (int k = 0; k < data; k++)
+                {
+                    if (cari == arr[k])
+                    {
+                        temu = 1;
+                    }
+                }
+
+                if (temu == 1)
+                {
+                    Console.WriteLine("Angka '" + cari + "' ditemukan di dalam kumpulan data!");
+                    Console.WriteLine("Tampilkan Data :");
+                    for (int l = 0; l < data; l++)
+                    {
+
+                        Console.Write(arr[l] + " ");
+                    }
+
+
+                }
+                else
+                {
+                    Console.WriteLine("Angka tidak ditemukan pada data!");
+                    Console.WriteLine("Tampilkan Data :");
+                    for (int l = 0; l < data; l++)
+                    {
+
+                        Console.Write(arr[l] + " ");
+                    }
+
+                }
+                Console.WriteLine();
+                Console.Write("Lanjut? (y/t) : ");
+                ulang = Console.ReadLine();
+                if (ulang == "y")
+                {
+
+                    Console.Clear();
+                    Console.WriteLine("Tampilkan Data :");
+                    for (int m = 0; m < data; m++)
+                    {
+
+                        Console.Write(arr[m] + " ");
+                    }
+                    Console.WriteLine("\n");
+
+                    goto a;
+                }
+                else if (ulang == "t")
+                {
+
+                }
+            }
+            else if (pilihan == "2")
+            {
+
+                for (int n = 0; n < data; n++)
+                {
+
+                    for (int o = 0; o < data; o++)
+                    {
+
+                        if (myint[n] < myint[o])
+                        {
+                            int awl = myint[n];
+                            myint[n] = myint[o];
+                            myint[o] = awl;
+                        }
+                    }
+                }
+
+                Console.WriteLine("\nPengurutan BubbleSort selesai!");
+                Console.WriteLine("\nTampilkan Data :");
+
+                for (int p = 0; p < data; p++)
+                {
+                    Console.Write(myint[p] + " ");
+                }
+
+                Console.Write("\nLanjut? (y/t) : ");
+                ulang = Console.ReadLine();
+                if (ulang == "y")
+                {
+
+                    Console.Clear();
+                    Console.WriteLine("Tampilkan Data :");
+                    for (int m = 0; m < data; m++)
+                    {
+
+                        Console.Write(arr[m] + " ");
+                    }
+                    Console.WriteLine("\n");
+
+                    goto a;
+                }
+                else if (ulang == "t")
+                {
+
+                }
+
+            }
+
+            else if (pilihan == "3")
+            {
+
+                for (int n = 0; n < data; n++)
+                {
+
+                    for (int o = 0; o < data; o++)
+                    {
+
+                        if (myint[n] > myint[o])
+                        {
+                            int awl = myint[n];
+                            myint[n] = myint[o];
+                            myint[o] = awl;
+                        }
+                    }
+                }
+
+                Console.WriteLine("\nPengurutan SelectionSort selesai!");
+                Console.WriteLine("\nTampilkan Data :");
+
+                for (int p = 0; p < data; p++)
+                {
+                    Console.Write(myint[p] + " ");
+                }
+
+                Console.Write("\nLanjut? (y/t) : ");
+                ulang = Console.ReadLine();
+                if (ulang == "y")
+                {
+
+                    Console.Clear();
+                    Console.WriteLine("Tampilkan Data :");
+                    for (int m = 0; m < data; m++)
+                    {
+
+                        Console.Write(arr[m] + " ");
+                    }
+                    Console.WriteLine("\n");
+
+                    goto a;
+                }
+                else if (ulang == "t")
+                {
+
+                }
+
+            }
+            else if (pilihan == "4")
+            {
+                Console.WriteLine("WARNING!! Semua Data akan diganti!");
+                Console.Write("Apakah Anda yakin? (y/t) : ");
+                string ganti = Console.ReadLine();
+                if (ganti == "y")
+                {
+                    Console.Clear();
+                    goto b;
+                }
+                else if (ganti == "t")
+                {
+                    Console.Write("\nLanjut? (y/t) : ");
+                    ulang = Console.ReadLine();
+                    if (ulang == "y")
+                    {
+
+                        Console.Clear();
+                        Console.WriteLine("Tampilkan Data :");
+                        for (int m = 0; m < data; m++)
+                        {
+
+                            Console.Write(arr[m] + " ");
+                        }
+                        Console.WriteLine("\n");
+
+                        goto a;
+                    }
+                    else if (ulang == "t")
+                    {
+
+                    }
+                }
+            }
+            else if (pilihan == "5")
+            {
+                Console.WriteLine("Selesai");
+            }
+        }
+    }
+}

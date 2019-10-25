@@ -1,0 +1,15 @@
+.select2{
+    height: calc(2.25rem + 2px) !important;
+}
+.select2-search--dropdown .select2-search__field{
+    border-radius: 0 !important;
+}
+.toasts-bottom-right{
+    bottom: 10px !important;
+    right: 10px !important;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__rendered{
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+}
